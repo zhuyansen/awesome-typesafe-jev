@@ -1,4 +1,14 @@
 {
+ "Arindam200/fr": {
+  "repo": "Arindam200/fr",
+  "url": "https://raw.githubusercontent.com/Arindam200/fr/HEAD/assets/fr.gif",
+  "alt": "fileroute demo",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 5277155,
+  "file": "Arindam200__fr.gif",
+  "still": "Arindam200__fr.jpg"
+ },
  "Sheltercosmo/jev4pg": {
   "repo": "Sheltercosmo/jev4pg",
   "url": "https://raw.githubusercontent.com/Sheltercosmo/jev4pg/HEAD/docs/assets/product-tour.gif?v=b87ec970",
@@ -8,5 +18,15 @@
   "bytes": 9955068,
   "file": "Sheltercosmo__jev4pg.gif",
   "still": "Sheltercosmo__jev4pg.jpg"
+ },
+ "allebee/pytest-jev": {
+  "repo": "allebee/pytest-jev",
+  "url": "https://raw.githubusercontent.com/allebee/pytest-jev/main/docs/demo/demo.gif",
+  "alt": "A pytest run in which jev.expect fails: three of four claims about a support bot",
+  "score": 4.8,
+  "type": "image/gif",
+  "bytes": 55185,
+  "file": "allebee__pytest-jev.gif",
+  "still": "allebee__pytest-jev.jpg"
  }
 }
