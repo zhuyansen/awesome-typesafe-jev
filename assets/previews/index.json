@@ -1,4 +1,14 @@
 {
+ "Algorythm-Canada/OpenJevSwift": {
+  "repo": "Algorythm-Canada/OpenJevSwift",
+  "url": "https://raw.githubusercontent.com/Algorythm-Canada/OpenJevSwift/HEAD/docs/assets/triage-demo.gif",
+  "alt": "The triage demo answering a billing complaint as it is typed, on an iPhone simul",
+  "score": 4.85,
+  "type": "image/gif",
+  "bytes": 1325151,
+  "file": "Algorythm-Canada__OpenJevSwift.gif",
+  "still": "Algorythm-Canada__OpenJevSwift.jpg"
+ },
  "Arindam200/fr": {
   "repo": "Arindam200/fr",
   "url": "https://raw.githubusercontent.com/Arindam200/fr/HEAD/assets/fr.gif",
@@ -19,6 +29,16 @@
   "file": "Sheltercosmo__jev4pg.gif",
   "still": "Sheltercosmo__jev4pg.jpg"
  },
+ "alanhuangyoo/OpenJev": {
+  "repo": "alanhuangyoo/OpenJev",
+  "url": "https://raw.githubusercontent.com/alanhuangyoo/OpenJev/main/assets/teaser.png",
+  "alt": "Browser step success against out-of-domain general accuracy for wev, Kev and Lay",
+  "score": -0.4,
+  "type": "image/png",
+  "bytes": 53846,
+  "file": "alanhuangyoo__OpenJev.jpg",
+  "still": "alanhuangyoo__OpenJev.jpg"
+ },
  "allebee/pytest-jev": {
   "repo": "allebee/pytest-jev",
   "url": "https://raw.githubusercontent.com/allebee/pytest-jev/main/docs/demo/demo.gif",
@@ -28,5 +48,15 @@
   "bytes": 55185,
   "file": "allebee__pytest-jev.gif",
   "still": "allebee__pytest-jev.jpg"
+ },
+ "sedum-dev/sedum": {
+  "repo": "sedum-dev/sedum",
+  "url": "https://raw.githubusercontent.com/sedum-dev/sedum/HEAD/docs/assets/demo.gif",
+  "alt": "Sedum running a plain-English login test in a real browser: it passes with 0.98 ",
+  "score": 4.65,
+  "type": "image/gif",
+  "bytes": 1198630,
+  "file": "sedum-dev__sedum.gif",
+  "still": "sedum-dev__sedum.jpg"
  }
 }
