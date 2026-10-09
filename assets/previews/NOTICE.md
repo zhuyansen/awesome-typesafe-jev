@@ -10,5 +10,7 @@ authors and stay under the license of the project they come from. To have one re
 | `Algorythm-Canada__OpenJevSwift.gif` | [Algorythm-Canada/OpenJevSwift](https://github.com/Algorythm-Canada/OpenJevSwift) | Apache-2.0 | [source](https://raw.githubusercontent.com/Algorythm-Canada/OpenJevSwift/HEAD/docs/assets/triage-demo.gif) |
 | `allebee__pytest-jev.gif` | [allebee/pytest-jev](https://github.com/allebee/pytest-jev) | MIT | [source](https://raw.githubusercontent.com/allebee/pytest-jev/main/docs/demo/demo.gif) |
 | `Arindam200__fr.gif` | [Arindam200/fr](https://github.com/Arindam200/fr) | MIT | [source](https://raw.githubusercontent.com/Arindam200/fr/HEAD/assets/fr.gif) |
+| `BingoWon__apple-rag-mcp.jpg` | [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) | MIT | [source](https://apple-rag.com/og-image-jev.png) |
 | `sedum-dev__sedum.gif` | [sedum-dev/sedum](https://github.com/sedum-dev/sedum) | MIT | [source](https://raw.githubusercontent.com/sedum-dev/sedum/HEAD/docs/assets/demo.gif) |
 | `Sheltercosmo__jev4pg.gif` | [Sheltercosmo/jev4pg](https://github.com/Sheltercosmo/jev4pg) | Apache-2.0 | [source](https://raw.githubusercontent.com/Sheltercosmo/jev4pg/HEAD/docs/assets/product-tour.gif?v=b87ec970) |
+| `zzsong1023__jev-market-reflex.gif` | [zzsong1023/jev-market-reflex](https://github.com/zzsong1023/jev-market-reflex) | MIT | [source](https://raw.githubusercontent.com/zzsong1023/jev-market-reflex/HEAD/assets/demo.gif) |

@@ -19,6 +19,16 @@
   "file": "Arindam200__fr.gif",
   "still": "Arindam200__fr.jpg"
  },
+ "BingoWon/apple-rag-mcp": {
+  "repo": "BingoWon/apple-rag-mcp",
+  "url": "https://apple-rag.com/og-image-jev.png",
+  "alt": "Apple RAG MCP — Powered by Jev",
+  "score": -0.2,
+  "type": "image/png",
+  "bytes": 167752,
+  "file": "BingoWon__apple-rag-mcp.jpg",
+  "still": "BingoWon__apple-rag-mcp.jpg"
+ },
  "Sheltercosmo/jev4pg": {
   "repo": "Sheltercosmo/jev4pg",
   "url": "https://raw.githubusercontent.com/Sheltercosmo/jev4pg/HEAD/docs/assets/product-tour.gif?v=b87ec970",
@@ -58,5 +68,15 @@
   "bytes": 1198630,
   "file": "sedum-dev__sedum.gif",
   "still": "sedum-dev__sedum.jpg"
+ },
+ "zzsong1023/jev-market-reflex": {
+  "repo": "zzsong1023/jev-market-reflex",
+  "url": "https://raw.githubusercontent.com/zzsong1023/jev-market-reflex/HEAD/assets/demo.gif",
+  "alt": "16-second Jev Market Reflex demo",
+  "score": 4.75,
+  "type": "image/gif",
+  "bytes": 2164598,
+  "file": "zzsong1023__jev-market-reflex.gif",
+  "still": "zzsong1023__jev-market-reflex.jpg"
  }
 }
