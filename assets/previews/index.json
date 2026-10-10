@@ -59,6 +59,36 @@
   "file": "allebee__pytest-jev.gif",
   "still": "allebee__pytest-jev.jpg"
  },
+ "devagrawal09/jev-review": {
+  "repo": "devagrawal09/jev-review",
+  "url": "https://raw.githubusercontent.com/devagrawal09/jev-review/HEAD/docs/dashboard.png",
+  "alt": "Jev Review dashboard",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 129019,
+  "file": "devagrawal09__jev-review.jpg",
+  "still": "devagrawal09__jev-review.jpg"
+ },
+ "dtunai/cu-Jev": {
+  "repo": "dtunai/cu-Jev",
+  "url": "https://raw.githubusercontent.com/dtunai/cu-Jev/HEAD/assets/starfighter.gif",
+  "alt": "cu-Jev Starfighter: Qwen3.5-4B flying a lane shooter through typed decisions",
+  "score": 2.95,
+  "type": "image/gif",
+  "bytes": 7715409,
+  "file": "dtunai__cu-Jev.gif",
+  "still": "dtunai__cu-Jev.jpg"
+ },
+ "egma-ai/jev-code-reviewer": {
+  "repo": "egma-ai/jev-code-reviewer",
+  "url": "https://raw.githubusercontent.com/egma-ai/jev-code-reviewer/HEAD/docs/preview.png",
+  "alt": "Jev-Code-Reviewer on the demonstration PR",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 146675,
+  "file": "egma-ai__jev-code-reviewer.jpg",
+  "still": "egma-ai__jev-code-reviewer.jpg"
+ },
  "sedum-dev/sedum": {
   "repo": "sedum-dev/sedum",
   "url": "https://raw.githubusercontent.com/sedum-dev/sedum/HEAD/docs/assets/demo.gif",
