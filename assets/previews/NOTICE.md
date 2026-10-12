@@ -14,6 +14,7 @@ authors and stay under the license of the project they come from. To have one re
 | `devagrawal09__jev-review.jpg` | [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) | MIT | [source](https://raw.githubusercontent.com/devagrawal09/jev-review/HEAD/docs/dashboard.png) |
 | `dtunai__cu-Jev.gif` | [dtunai/cu-Jev](https://github.com/dtunai/cu-Jev) | Apache-2.0 | [source](https://raw.githubusercontent.com/dtunai/cu-Jev/HEAD/assets/starfighter.gif) |
 | `egma-ai__jev-code-reviewer.jpg` | [egma-ai/jev-code-reviewer](https://github.com/egma-ai/jev-code-reviewer) | MIT | [source](https://raw.githubusercontent.com/egma-ai/jev-code-reviewer/HEAD/docs/preview.png) |
+| `jmagly__aiwg.jpg` | [jmagly/aiwg](https://github.com/jmagly/aiwg) | MIT | [source](https://raw.githubusercontent.com/jmagly/aiwg/HEAD/docs/.public/aiwg-readme-hero-v2.png) |
 | `sedum-dev__sedum.gif` | [sedum-dev/sedum](https://github.com/sedum-dev/sedum) | MIT | [source](https://raw.githubusercontent.com/sedum-dev/sedum/HEAD/docs/assets/demo.gif) |
 | `Sheltercosmo__jev4pg.gif` | [Sheltercosmo/jev4pg](https://github.com/Sheltercosmo/jev4pg) | Apache-2.0 | [source](https://raw.githubusercontent.com/Sheltercosmo/jev4pg/HEAD/docs/assets/product-tour.gif?v=b87ec970) |
 | `zzsong1023__jev-market-reflex.gif` | [zzsong1023/jev-market-reflex](https://github.com/zzsong1023/jev-market-reflex) | MIT | [source](https://raw.githubusercontent.com/zzsong1023/jev-market-reflex/HEAD/assets/demo.gif) |

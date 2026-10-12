@@ -89,6 +89,16 @@
   "file": "egma-ai__jev-code-reviewer.jpg",
   "still": "egma-ai__jev-code-reviewer.jpg"
  },
+ "jmagly/aiwg": {
+  "repo": "jmagly/aiwg",
+  "url": "https://raw.githubusercontent.com/jmagly/aiwg/HEAD/docs/.public/aiwg-readme-hero-v2.png",
+  "alt": "AIWG — multi-agent AI framework, one\nsource of truth; network connecting AI tool",
+  "score": -0.5,
+  "type": "image/png",
+  "bytes": 1984500,
+  "file": "jmagly__aiwg.jpg",
+  "still": "jmagly__aiwg.jpg"
+ },
  "sedum-dev/sedum": {
   "repo": "sedum-dev/sedum",
   "url": "https://raw.githubusercontent.com/sedum-dev/sedum/HEAD/docs/assets/demo.gif",
