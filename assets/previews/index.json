@@ -69,6 +69,16 @@
   "file": "devagrawal09__jev-review.jpg",
   "still": "devagrawal09__jev-review.jpg"
  },
+ "dongxinsuperman/jev-phone": {
+  "repo": "dongxinsuperman/jev-phone",
+  "url": "https://raw.githubusercontent.com/dongxinsuperman/jev-phone/HEAD/docs/media/demo-default-difficulty-fast.gif",
+  "alt": "实机演示：预览难度并保存",
+  "score": 4.95,
+  "type": "image/gif",
+  "bytes": 1012807,
+  "file": "dongxinsuperman__jev-phone.gif",
+  "still": "dongxinsuperman__jev-phone.jpg"
+ },
  "dtunai/cu-Jev": {
   "repo": "dtunai/cu-Jev",
   "url": "https://raw.githubusercontent.com/dtunai/cu-Jev/HEAD/assets/starfighter.gif",

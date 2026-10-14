@@ -12,6 +12,7 @@ authors and stay under the license of the project they come from. To have one re
 | `Arindam200__fr.gif` | [Arindam200/fr](https://github.com/Arindam200/fr) | MIT | [source](https://raw.githubusercontent.com/Arindam200/fr/HEAD/assets/fr.gif) |
 | `BingoWon__apple-rag-mcp.jpg` | [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) | MIT | [source](https://apple-rag.com/og-image-jev.png) |
 | `devagrawal09__jev-review.jpg` | [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) | MIT | [source](https://raw.githubusercontent.com/devagrawal09/jev-review/HEAD/docs/dashboard.png) |
+| `dongxinsuperman__jev-phone.gif` | [dongxinsuperman/jev-phone](https://github.com/dongxinsuperman/jev-phone) | MIT | [source](https://raw.githubusercontent.com/dongxinsuperman/jev-phone/HEAD/docs/media/demo-default-difficulty-fast.gif) |
 | `dtunai__cu-Jev.gif` | [dtunai/cu-Jev](https://github.com/dtunai/cu-Jev) | Apache-2.0 | [source](https://raw.githubusercontent.com/dtunai/cu-Jev/HEAD/assets/starfighter.gif) |
 | `egma-ai__jev-code-reviewer.jpg` | [egma-ai/jev-code-reviewer](https://github.com/egma-ai/jev-code-reviewer) | MIT | [source](https://raw.githubusercontent.com/egma-ai/jev-code-reviewer/HEAD/docs/preview.png) |
 | `jmagly__aiwg.jpg` | [jmagly/aiwg](https://github.com/jmagly/aiwg) | MIT | [source](https://raw.githubusercontent.com/jmagly/aiwg/HEAD/docs/.public/aiwg-readme-hero-v2.png) |
