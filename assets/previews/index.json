@@ -39,6 +39,16 @@
   "file": "Sheltercosmo__jev4pg.gif",
   "still": "Sheltercosmo__jev4pg.jpg"
  },
+ "adityajha2005/decisionkit": {
+  "repo": "adityajha2005/decisionkit",
+  "url": "https://raw.githubusercontent.com/adityajha2005/decisionkit/HEAD/docs/media/demo-claude-code.gif",
+  "alt": "Claude Code using the decisionkit plugin to triage three issues with Jev",
+  "score": 4.8,
+  "type": "image/gif",
+  "bytes": 320230,
+  "file": "adityajha2005__decisionkit.gif",
+  "still": "adityajha2005__decisionkit.jpg"
+ },
  "alanhuangyoo/OpenJev": {
   "repo": "alanhuangyoo/OpenJev",
   "url": "https://raw.githubusercontent.com/alanhuangyoo/OpenJev/main/assets/teaser.png",
@@ -58,6 +68,16 @@
   "bytes": 55185,
   "file": "allebee__pytest-jev.gif",
   "still": "allebee__pytest-jev.jpg"
+ },
+ "dante01yoon/ComfyUI-SystemOne": {
+  "repo": "dante01yoon/ComfyUI-SystemOne",
+  "url": "https://raw.githubusercontent.com/dante01yoon/ComfyUI-SystemOne/HEAD/docs/media/style_router.gif",
+  "alt": "Style router demo",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 5056870,
+  "file": "dante01yoon__ComfyUI-SystemOne.gif",
+  "still": "dante01yoon__ComfyUI-SystemOne.jpg"
  },
  "devagrawal09/jev-review": {
   "repo": "devagrawal09/jev-review",

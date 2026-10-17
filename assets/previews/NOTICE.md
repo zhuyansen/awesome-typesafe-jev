@@ -6,11 +6,13 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `adityajha2005__decisionkit.gif` | [adityajha2005/decisionkit](https://github.com/adityajha2005/decisionkit) | MIT | [source](https://raw.githubusercontent.com/adityajha2005/decisionkit/HEAD/docs/media/demo-claude-code.gif) |
 | `alanhuangyoo__OpenJev.jpg` | [alanhuangyoo/OpenJev](https://github.com/alanhuangyoo/OpenJev) | Apache-2.0 | [source](https://raw.githubusercontent.com/alanhuangyoo/OpenJev/main/assets/teaser.png) |
 | `Algorythm-Canada__OpenJevSwift.gif` | [Algorythm-Canada/OpenJevSwift](https://github.com/Algorythm-Canada/OpenJevSwift) | Apache-2.0 | [source](https://raw.githubusercontent.com/Algorythm-Canada/OpenJevSwift/HEAD/docs/assets/triage-demo.gif) |
 | `allebee__pytest-jev.gif` | [allebee/pytest-jev](https://github.com/allebee/pytest-jev) | MIT | [source](https://raw.githubusercontent.com/allebee/pytest-jev/main/docs/demo/demo.gif) |
 | `Arindam200__fr.gif` | [Arindam200/fr](https://github.com/Arindam200/fr) | MIT | [source](https://raw.githubusercontent.com/Arindam200/fr/HEAD/assets/fr.gif) |
 | `BingoWon__apple-rag-mcp.jpg` | [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) | MIT | [source](https://apple-rag.com/og-image-jev.png) |
+| `dante01yoon__ComfyUI-SystemOne.gif` | [dante01yoon/ComfyUI-SystemOne](https://github.com/dante01yoon/ComfyUI-SystemOne) | MIT | [source](https://raw.githubusercontent.com/dante01yoon/ComfyUI-SystemOne/HEAD/docs/media/style_router.gif) |
 | `devagrawal09__jev-review.jpg` | [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) | MIT | [source](https://raw.githubusercontent.com/devagrawal09/jev-review/HEAD/docs/dashboard.png) |
 | `dongxinsuperman__jev-phone.gif` | [dongxinsuperman/jev-phone](https://github.com/dongxinsuperman/jev-phone) | MIT | [source](https://raw.githubusercontent.com/dongxinsuperman/jev-phone/HEAD/docs/media/demo-default-difficulty-fast.gif) |
 | `dtunai__cu-Jev.gif` | [dtunai/cu-Jev](https://github.com/dtunai/cu-Jev) | Apache-2.0 | [source](https://raw.githubusercontent.com/dtunai/cu-Jev/HEAD/assets/starfighter.gif) |
