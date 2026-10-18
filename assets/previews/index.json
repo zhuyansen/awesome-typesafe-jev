@@ -1,4 +1,14 @@
 {
+ "AgriciDaniel/jev-seo": {
+  "repo": "AgriciDaniel/jev-seo",
+  "url": "https://raw.githubusercontent.com/AgriciDaniel/jev-seo/HEAD/docs/assets/preview-jev.jpg",
+  "alt": "Jev judgment cards, quality heatmap and where to invest",
+  "score": 1.55,
+  "type": "image/jpeg",
+  "bytes": 107984,
+  "file": "AgriciDaniel__jev-seo.jpg",
+  "still": "AgriciDaniel__jev-seo.jpg"
+ },
  "Algorythm-Canada/OpenJevSwift": {
   "repo": "Algorythm-Canada/OpenJevSwift",
   "url": "https://raw.githubusercontent.com/Algorythm-Canada/OpenJevSwift/HEAD/docs/assets/triage-demo.gif",

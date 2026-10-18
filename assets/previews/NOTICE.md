@@ -7,6 +7,7 @@ authors and stay under the license of the project they come from. To have one re
 | File | Project | License | Original |
 |---|---|---|---|
 | `adityajha2005__decisionkit.gif` | [adityajha2005/decisionkit](https://github.com/adityajha2005/decisionkit) | MIT | [source](https://raw.githubusercontent.com/adityajha2005/decisionkit/HEAD/docs/media/demo-claude-code.gif) |
+| `AgriciDaniel__jev-seo.jpg` | [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) | MIT | [source](https://raw.githubusercontent.com/AgriciDaniel/jev-seo/HEAD/docs/assets/preview-jev.jpg) |
 | `alanhuangyoo__OpenJev.jpg` | [alanhuangyoo/OpenJev](https://github.com/alanhuangyoo/OpenJev) | Apache-2.0 | [source](https://raw.githubusercontent.com/alanhuangyoo/OpenJev/main/assets/teaser.png) |
 | `Algorythm-Canada__OpenJevSwift.gif` | [Algorythm-Canada/OpenJevSwift](https://github.com/Algorythm-Canada/OpenJevSwift) | Apache-2.0 | [source](https://raw.githubusercontent.com/Algorythm-Canada/OpenJevSwift/HEAD/docs/assets/triage-demo.gif) |
 | `allebee__pytest-jev.gif` | [allebee/pytest-jev](https://github.com/allebee/pytest-jev) | MIT | [source](https://raw.githubusercontent.com/allebee/pytest-jev/main/docs/demo/demo.gif) |
