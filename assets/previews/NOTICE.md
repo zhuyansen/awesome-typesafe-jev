@@ -21,4 +21,5 @@ authors and stay under the license of the project they come from. To have one re
 | `jmagly__aiwg.jpg` | [jmagly/aiwg](https://github.com/jmagly/aiwg) | MIT | [source](https://raw.githubusercontent.com/jmagly/aiwg/HEAD/docs/.public/aiwg-readme-hero-v2.png) |
 | `sedum-dev__sedum.gif` | [sedum-dev/sedum](https://github.com/sedum-dev/sedum) | MIT | [source](https://raw.githubusercontent.com/sedum-dev/sedum/HEAD/docs/assets/demo.gif) |
 | `Sheltercosmo__jev4pg.gif` | [Sheltercosmo/jev4pg](https://github.com/Sheltercosmo/jev4pg) | Apache-2.0 | [source](https://raw.githubusercontent.com/Sheltercosmo/jev4pg/HEAD/docs/assets/product-tour.gif?v=b87ec970) |
+| `Valen-Team__Valen.gif` | [Valen-Team/Valen](https://github.com/Valen-Team/Valen) | Apache-2.0 | [source](https://raw.githubusercontent.com/Valen-Team/Valen/HEAD/assets/demos/games/valen-sokoban-preview.gif) |
 | `zzsong1023__jev-market-reflex.gif` | [zzsong1023/jev-market-reflex](https://github.com/zzsong1023/jev-market-reflex) | MIT | [source](https://raw.githubusercontent.com/zzsong1023/jev-market-reflex/HEAD/assets/demo.gif) |

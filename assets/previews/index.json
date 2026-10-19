@@ -49,6 +49,16 @@
   "file": "Sheltercosmo__jev4pg.gif",
   "still": "Sheltercosmo__jev4pg.jpg"
  },
+ "Valen-Team/Valen": {
+  "repo": "Valen-Team/Valen",
+  "url": "https://raw.githubusercontent.com/Valen-Team/Valen/HEAD/assets/demos/games/valen-sokoban-preview.gif",
+  "alt": "Valen solves a Sokoban puzzle.",
+  "score": 4.3,
+  "type": "image/gif",
+  "bytes": 483227,
+  "file": "Valen-Team__Valen.gif",
+  "still": "Valen-Team__Valen.jpg"
+ },
  "adityajha2005/decisionkit": {
   "repo": "adityajha2005/decisionkit",
   "url": "https://raw.githubusercontent.com/adityajha2005/decisionkit/HEAD/docs/media/demo-claude-code.gif",
