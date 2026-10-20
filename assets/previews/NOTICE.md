@@ -15,6 +15,7 @@ authors and stay under the license of the project they come from. To have one re
 | `BingoWon__apple-rag-mcp.jpg` | [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) | MIT | [source](https://apple-rag.com/og-image-jev.png) |
 | `dante01yoon__ComfyUI-SystemOne.gif` | [dante01yoon/ComfyUI-SystemOne](https://github.com/dante01yoon/ComfyUI-SystemOne) | MIT | [source](https://raw.githubusercontent.com/dante01yoon/ComfyUI-SystemOne/HEAD/docs/media/style_router.gif) |
 | `devagrawal09__jev-review.jpg` | [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) | MIT | [source](https://raw.githubusercontent.com/devagrawal09/jev-review/HEAD/docs/dashboard.png) |
+| `disler__pi-durable-news-agent.jpg` | [disler/pi-durable-news-agent](https://github.com/disler/pi-durable-news-agent) | MIT | [source](https://raw.githubusercontent.com/disler/pi-durable-news-agent/HEAD/images/01_durable_news_agent.png) |
 | `dongxinsuperman__jev-phone.gif` | [dongxinsuperman/jev-phone](https://github.com/dongxinsuperman/jev-phone) | MIT | [source](https://raw.githubusercontent.com/dongxinsuperman/jev-phone/HEAD/docs/media/demo-default-difficulty-fast.gif) |
 | `dtunai__cu-Jev.gif` | [dtunai/cu-Jev](https://github.com/dtunai/cu-Jev) | Apache-2.0 | [source](https://raw.githubusercontent.com/dtunai/cu-Jev/HEAD/assets/starfighter.gif) |
 | `egma-ai__jev-code-reviewer.jpg` | [egma-ai/jev-code-reviewer](https://github.com/egma-ai/jev-code-reviewer) | MIT | [source](https://raw.githubusercontent.com/egma-ai/jev-code-reviewer/HEAD/docs/preview.png) |

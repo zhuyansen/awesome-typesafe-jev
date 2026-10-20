@@ -109,6 +109,16 @@
   "file": "devagrawal09__jev-review.jpg",
   "still": "devagrawal09__jev-review.jpg"
  },
+ "disler/pi-durable-news-agent": {
+  "repo": "disler/pi-durable-news-agent",
+  "url": "https://raw.githubusercontent.com/disler/pi-durable-news-agent/HEAD/images/01_durable_news_agent.png",
+  "alt": "Pi Durable News Agent: news worth your attention",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 1464540,
+  "file": "disler__pi-durable-news-agent.jpg",
+  "still": "disler__pi-durable-news-agent.jpg"
+ },
  "dongxinsuperman/jev-phone": {
   "repo": "dongxinsuperman/jev-phone",
   "url": "https://raw.githubusercontent.com/dongxinsuperman/jev-phone/HEAD/docs/media/demo-default-difficulty-fast.gif",
