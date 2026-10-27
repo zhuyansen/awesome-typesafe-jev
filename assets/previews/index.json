@@ -1,4 +1,14 @@
 {
+ "0x7067/jev-browse": {
+  "repo": "0x7067/jev-browse",
+  "url": "https://raw.githubusercontent.com/0x7067/jev-browse/HEAD/docs/demo.gif",
+  "alt": "jev-browse searching Google Flights at 1× speed, with each action captioned",
+  "score": 4.95,
+  "type": "image/gif",
+  "bytes": 1389647,
+  "file": "0x7067__jev-browse.gif",
+  "still": "0x7067__jev-browse.jpg"
+ },
  "AgriciDaniel/jev-seo": {
   "repo": "AgriciDaniel/jev-seo",
   "url": "https://raw.githubusercontent.com/AgriciDaniel/jev-seo/HEAD/docs/assets/preview-jev.jpg",

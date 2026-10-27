@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `0x7067__jev-browse.gif` | [0x7067/jev-browse](https://github.com/0x7067/jev-browse) | MIT | [source](https://raw.githubusercontent.com/0x7067/jev-browse/HEAD/docs/demo.gif) |
 | `adityajha2005__decisionkit.gif` | [adityajha2005/decisionkit](https://github.com/adityajha2005/decisionkit) | MIT | [source](https://raw.githubusercontent.com/adityajha2005/decisionkit/HEAD/docs/media/demo-claude-code.gif) |
 | `AgriciDaniel__jev-seo.jpg` | [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) | MIT | [source](https://raw.githubusercontent.com/AgriciDaniel/jev-seo/HEAD/docs/assets/preview-jev.jpg) |
 | `alanhuangyoo__OpenJev.jpg` | [alanhuangyoo/OpenJev](https://github.com/alanhuangyoo/OpenJev) | Apache-2.0 | [source](https://raw.githubusercontent.com/alanhuangyoo/OpenJev/main/assets/teaser.png) |
