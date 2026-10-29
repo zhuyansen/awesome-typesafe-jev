@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28",
+ "generated": "2026-10-29",
  "source": "https://agentskillshub.top/best/typesafe-jev/",
  "kinds": [
   {
@@ -49,7 +49,7 @@
   {
    "repo_full_name": "nokia-applied-research/AnyJev",
    "path": null,
-   "stars": 1511,
+   "stars": 1531,
    "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
    "kind": "general",
    "security_grade": "safe",
@@ -59,7 +59,7 @@
   {
    "repo_full_name": "kerpopule/hermes-jev-skills",
    "path": null,
-   "stars": 1229,
+   "stars": 1244,
    "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
    "kind": "general",
    "security_grade": "safe",
@@ -69,11 +69,21 @@
   {
    "repo_full_name": "jkudish/jev-mcp",
    "path": null,
-   "stars": 555,
+   "stars": 556,
    "description": "Fast, cheap, typed judgments from TypeSafe's Jev model, as MCP tools.",
    "kind": "general",
    "security_grade": "safe",
    "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "superagents-lab/jev-search",
+   "path": null,
+   "stars": 549,
+   "description": "Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -87,19 +97,9 @@
    "license": null
   },
   {
-   "repo_full_name": "superagents-lab/jev-search",
-   "path": null,
-   "stars": 547,
-   "description": "Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "datawhalechina/jev-cookbook",
    "path": null,
-   "stars": 540,
+   "stars": 547,
    "description": "⚡ 适合中国宝宝的 Jev 入门教程｜手把手带你了解关于 Jev 的一切——Jupyter Notebook 轻松实验，从三种问题原语到 18 篇实战配方、语音智能家居、模型评测与本地微调，全面掌握 System One 判断模型的开发范式",
    "kind": "general",
    "security_grade": "safe",
@@ -109,7 +109,7 @@
   {
    "repo_full_name": "anteloc/ldraw-nova",
    "path": null,
-   "stars": 490,
+   "stars": 491,
    "description": "Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev",
    "kind": "general",
    "security_grade": "safe",
@@ -119,7 +119,7 @@
   {
    "repo_full_name": "dabit3/jev-experiments",
    "path": null,
-   "stars": 410,
+   "stars": 411,
    "description": null,
    "kind": "general",
    "security_grade": "safe",
@@ -139,7 +139,7 @@
   {
    "repo_full_name": "sutro-sh/jev-align",
    "path": null,
-   "stars": 311,
+   "stars": 312,
    "description": "Build calibrated AI Functions from human feedback using Jev and GEPA.",
    "kind": "general",
    "security_grade": "safe",
@@ -149,7 +149,7 @@
   {
    "repo_full_name": "RomanSlack/jev-drone",
    "path": null,
-   "stars": 289,
+   "stars": 290,
    "description": "Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz",
    "kind": "general",
    "security_grade": "safe",
@@ -159,7 +159,7 @@
   {
    "repo_full_name": "monteduro/killmyidea",
    "path": null,
-   "stars": 269,
+   "stars": 270,
    "description": "Describe your startup idea. Jev decides: kill it, fix it or ship it.",
    "kind": "general",
    "security_grade": "safe",
@@ -167,19 +167,9 @@
    "license": null
   },
   {
-   "repo_full_name": "Sheltercosmo/jev4pg",
-   "path": null,
-   "stars": 259,
-   "description": "Established strong JEV based natural language to SQL performance and well-covered semantic operators for PostgreSQL(PG) with optimized cost and latency. Reusable evidence, with native execution, parallel plans and explainable embeddings in development preview.",
-   "kind": "general",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "Apache-2.0"
-  },
-  {
    "repo_full_name": "disler/ten-levels-of-jev",
    "path": null,
-   "stars": 259,
+   "stars": 261,
    "description": "Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own",
    "kind": "general",
    "security_grade": "safe",
@@ -187,9 +177,19 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Sheltercosmo/jev4pg",
+   "path": null,
+   "stars": 259,
+   "description": "Established strong JEV based natural language to SQL performance and well-covered semantic operators for PostgreSQL with optimized cost and latency. Reusable evidence, with native execution, parallel plans and explainable embeddings in development preview.",
+   "kind": "general",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "libingzheren/Jev-Mem",
    "path": null,
-   "stars": 247,
+   "stars": 249,
    "description": "Jev-Mem: System-One Controlled Agentic Memory",
    "kind": "general",
    "security_grade": "safe",
@@ -199,7 +199,7 @@
   {
    "repo_full_name": "jmagly/aiwg",
    "path": null,
-   "stars": 225,
+   "stars": 226,
    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Codex, Copilot, Cursor and more, plus SDLC workflows, session memory, and Jev decision support that offloads bounded LLM decisions to save tokens.",
    "kind": "general",
    "security_grade": "safe",
@@ -209,7 +209,7 @@
   {
    "repo_full_name": "HarnessRouter/SystemOneHarness",
    "path": null,
-   "stars": 205,
+   "stars": 206,
    "description": "The System One harness for System One models. Run Jev and other System One models locally or directly on HarnessRouter.ai.",
    "kind": "general",
    "security_grade": "safe",
@@ -219,7 +219,7 @@
   {
    "repo_full_name": "jexp/neo4jev",
    "path": null,
-   "stars": 180,
+   "stars": 181,
    "description": "Typesafe.ai System One Model Jev navigating a Neo4j graph by using a classifier over neighbouring relationships",
    "kind": "general",
    "security_grade": "safe",
@@ -229,7 +229,7 @@
   {
    "repo_full_name": "ThinkFlowLab/system1-agents",
    "path": null,
-   "stars": 177,
+   "stars": 178,
    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
    "kind": "general",
    "security_grade": "safe",
@@ -239,7 +239,7 @@
   {
    "repo_full_name": "artemnovitckii/creator-lab",
    "path": null,
-   "stars": 166,
+   "stars": 167,
    "description": "Research Instagram Reel scripts with Apify, Jev, and Fireworks or Groq. Bring your own keys, compare hooks, and record the patterns.",
    "kind": "general",
    "security_grade": "safe",
@@ -399,7 +399,7 @@
   {
    "repo_full_name": "jonathanavis96/jev-kit",
    "path": null,
-   "stars": 89,
+   "stars": 90,
    "description": "Everything you need to run TypeSafe's Jev with Claude Code: a tool-call guard, tier guard, file search, browser agent, review, belay, compaction and installers.",
    "kind": "general",
    "security_grade": "caution",
@@ -569,7 +569,7 @@
   {
    "repo_full_name": "yijunyu/jev-rs",
    "path": null,
-   "stars": 19,
+   "stars": 20,
    "description": "System One judgments (noul/choice/score) from any LLM in one prefill — a Rust, Jev-compatible /v1/systemone engine",
    "kind": "general",
    "security_grade": "safe",
@@ -769,7 +769,7 @@
   {
    "repo_full_name": "jaredpalmer/kev",
    "path": null,
-   "stars": 9650,
+   "stars": 9682,
    "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
    "kind": "replica",
    "security_grade": "safe",
@@ -779,7 +779,7 @@
   {
    "repo_full_name": "TheoLeeCJ/SemIf-OpenJev",
    "path": null,
-   "stars": 4896,
+   "stars": 4906,
    "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
    "kind": "replica",
    "security_grade": "safe",
@@ -789,7 +789,7 @@
   {
    "repo_full_name": "TianyuCodings/NanoJev",
    "path": null,
-   "stars": 2566,
+   "stars": 2568,
    "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
    "kind": "replica",
    "security_grade": "safe",
@@ -799,7 +799,7 @@
   {
    "repo_full_name": "ollaya-dev/ollaya",
    "path": null,
-   "stars": 1412,
+   "stars": 1419,
    "description": "Jev-compatible API server for open decision models. Ollama for decision models: pull and serve 29 model families (Laya, pplx-decider, Clef, Winnow, coba...) locally or self-hosted behind /v1/systemone. The TypeSafe SDK works unchanged: set its base URL and pick an open model. CLI, desktop app, Docker, MCP server, public bench.",
    "kind": "replica",
    "security_grade": "safe",
@@ -809,7 +809,7 @@
   {
    "repo_full_name": "vinnylarouge/jevlike",
    "path": null,
-   "stars": 1358,
+   "stars": 1361,
    "description": null,
    "kind": "replica",
    "security_grade": "safe",
@@ -819,7 +819,7 @@
   {
    "repo_full_name": "receptron/laya",
    "path": null,
-   "stars": 1011,
+   "stars": 1017,
    "description": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime",
    "kind": "replica",
    "security_grade": "safe",
@@ -839,7 +839,7 @@
   {
    "repo_full_name": "wfzyx/von",
    "path": null,
-   "stars": 921,
+   "stars": 922,
    "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
    "kind": "replica",
    "security_grade": "safe",
@@ -849,7 +849,7 @@
   {
    "repo_full_name": "Valen-Team/Valen",
    "path": null,
-   "stars": 887,
+   "stars": 889,
    "description": "Open, lightweight multimodal decision models for text, images, and video. Train and run them yourself.",
    "kind": "replica",
    "security_grade": "safe",
@@ -859,7 +859,7 @@
   {
    "repo_full_name": "mode-io/vllm-jev",
    "path": null,
-   "stars": 801,
+   "stars": 822,
    "description": "Native vLLM serving for Jev decision models",
    "kind": "replica",
    "security_grade": "safe",
@@ -869,7 +869,7 @@
   {
    "repo_full_name": "razorback16/openjev",
    "path": null,
-   "stars": 759,
+   "stars": 762,
    "description": "Open, Jev-compatible System One decision server on DiffusionGemma",
    "kind": "replica",
    "security_grade": "safe",
@@ -889,7 +889,7 @@
   {
    "repo_full_name": "Yinsongxu/LLM2Jev",
    "path": null,
-   "stars": 464,
+   "stars": 469,
    "description": "Turn local language models into Jev-style structured decision models. Get results from text and images with prefill alone—no token-by-token decoding required.",
    "kind": "replica",
    "security_grade": "safe",
@@ -899,7 +899,7 @@
   {
    "repo_full_name": "Zefan-Cai/Open-Jev",
    "path": null,
-   "stars": 438,
+   "stars": 437,
    "description": null,
    "kind": "replica",
    "security_grade": "safe",
@@ -909,7 +909,7 @@
   {
    "repo_full_name": "PostHog/jeeves",
    "path": null,
-   "stars": 431,
+   "stars": 433,
    "description": "Jeeves – Reasoning improves Jev-like decision models",
    "kind": "replica",
    "security_grade": "safe",
@@ -919,7 +919,7 @@
   {
    "repo_full_name": "mohit67890/imajev",
    "path": null,
-   "stars": 413,
+   "stars": 414,
    "description": "Open Jev-style typed-decision model that also takes images: photo + app state + typed questions in, calibrated probabilities out, locally.",
    "kind": "replica",
    "security_grade": "safe",
@@ -929,7 +929,7 @@
   {
    "repo_full_name": "ekzhang/openjev-sglang",
    "path": null,
-   "stars": 333,
+   "stars": 332,
    "description": "Jev-compatible API endpoint based on open models (prefill-only)",
    "kind": "replica",
    "security_grade": "safe",
@@ -947,6 +947,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "jiwidi/jiwo",
+   "path": null,
+   "stars": 255,
+   "description": "Small decision models (jev style) for latency critical scenarios",
+   "kind": "replica",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "togethercomputer/tev1",
    "path": null,
    "stars": 255,
@@ -957,19 +967,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "jiwidi/jiwo",
-   "path": null,
-   "stars": 244,
-   "description": "Small decision models (jev style) for latency critical scenarios",
-   "kind": "replica",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "SiliconLabAI/OpenJev",
    "path": null,
-   "stars": 181,
+   "stars": 183,
    "description": "OpenSource Jev",
    "kind": "replica",
    "security_grade": "safe",
@@ -1029,7 +1029,7 @@
   {
    "repo_full_name": "kyegomez/open-jev",
    "path": null,
-   "stars": 132,
+   "stars": 134,
    "description": "an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch",
    "kind": "replica",
    "security_grade": "safe",
@@ -1039,7 +1039,7 @@
   {
    "repo_full_name": "JunMa11/MedJev",
    "path": null,
-   "stars": 118,
+   "stars": 119,
    "description": null,
    "kind": "replica",
    "security_grade": "safe",
@@ -1069,7 +1069,7 @@
   {
    "repo_full_name": "1Panel-dev/laya-server",
    "path": null,
-   "stars": 108,
+   "stars": 109,
    "description": "A self-hosted API and web interface for Laya’s structured decision models, compatible with the TypeSafe Jev API format.",
    "kind": "replica",
    "security_grade": "safe",
@@ -1129,7 +1129,7 @@
   {
    "repo_full_name": "alanhuangyoo/OpenJev",
    "path": null,
-   "stars": 66,
+   "stars": 67,
    "description": "OpenJev: open-source, local alternative to Jev. System-One decision models: typed questions in, calibrated probabilities out; general decisions and browser-agent steps.",
    "kind": "replica",
    "security_grade": "safe",
@@ -1219,7 +1219,7 @@
   {
    "repo_full_name": "Xiaooolong/vev",
    "path": null,
-   "stars": 25,
+   "stars": 26,
    "description": "Jev-like decision models that can also see images — open weights on Qwen3.5, run on your own GPU",
    "kind": "replica",
    "security_grade": "safe",
@@ -1249,7 +1249,7 @@
   {
    "repo_full_name": "amithgc/local-jev",
    "path": null,
-   "stars": 21,
+   "stars": 23,
    "description": " A local, offline System One server compatible with TypeSafe's Jev API. It answers typed yes/no, category and score questions with small open models.",
    "kind": "replica",
    "security_grade": "safe",
@@ -1367,6 +1367,16 @@
    "license": "Apache-2.0"
   },
   {
+   "repo_full_name": "hiroki-abe-58/sokudan",
+   "path": null,
+   "stars": 6,
+   "description": "Japanese System One decision model (Jev-style): typed answers and probabilities in one forward pass, no text generation. Includes bench_ja/bench_en and a Laya position-bias repro.",
+   "kind": "replica",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
+  },
+  {
    "repo_full_name": "italoalmeida0/laya-system-one",
    "path": null,
    "stars": 6,
@@ -1419,7 +1429,7 @@
   {
    "repo_full_name": "browser-use/jev-ultrafast",
    "path": null,
-   "stars": 23805,
+   "stars": 23866,
    "description": "Fastest and cheapest web agent",
    "kind": "agent",
    "security_grade": "safe",
@@ -1439,7 +1449,7 @@
   {
    "repo_full_name": "Sac-Y/Jev-cu",
    "path": null,
-   "stars": 627,
+   "stars": 628,
    "description": null,
    "kind": "agent",
    "security_grade": "safe",
@@ -1449,7 +1459,7 @@
   {
    "repo_full_name": "rmalde/minecraft-agent",
    "path": null,
-   "stars": 600,
+   "stars": 601,
    "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
    "kind": "agent",
    "security_grade": "safe",
@@ -1459,7 +1469,7 @@
   {
    "repo_full_name": "droidrun/mobile-jev",
    "path": null,
-   "stars": 458,
+   "stars": 459,
    "description": null,
    "kind": "agent",
    "security_grade": "safe",
@@ -1469,7 +1479,7 @@
   {
    "repo_full_name": "fhshaik/typesafe-mario",
    "path": null,
-   "stars": 455,
+   "stars": 456,
    "description": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state.",
    "kind": "agent",
    "security_grade": "safe",
@@ -1479,7 +1489,7 @@
   {
    "repo_full_name": "moritzkremb/jev-voice-browser",
    "path": null,
-   "stars": 422,
+   "stars": 423,
    "description": "Control a real browser by voice. Jev (TypeSafe System One) decides intent + target in ~300 ms per spoken word; Playwright acts — often before you finish the sentence.",
    "kind": "agent",
    "security_grade": "safe",
@@ -1489,7 +1499,7 @@
   {
    "repo_full_name": "jkudish/jev-browser",
    "path": null,
-   "stars": 359,
+   "stars": 362,
    "description": "Browser use using Typesafe's Jev model",
    "kind": "agent",
    "security_grade": "safe",
@@ -1499,7 +1509,7 @@
   {
    "repo_full_name": "FBddcz/embodied-jev",
    "path": null,
-   "stars": 324,
+   "stars": 325,
    "description": "EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs",
    "kind": "agent",
    "security_grade": "safe",
@@ -1519,7 +1529,7 @@
   {
    "repo_full_name": "OmniJev/OneJev",
    "path": null,
-   "stars": 203,
+   "stars": 210,
    "description": "🚀🚀 A multimodal System One decision model that gives calibrated answers to typed questions about screens, photos, video and text in one forward pass.",
    "kind": "agent",
    "security_grade": "safe",
@@ -1529,7 +1539,7 @@
   {
    "repo_full_name": "socai-io/jev-social",
    "path": null,
-   "stars": 188,
+   "stars": 190,
    "description": "Open-source, local-first social media research agent for Instagram, TikTok, and LinkedIn. Jev routes read-only steps; socai CLI captures cited browser evidence.",
    "kind": "agent",
    "security_grade": "safe",
@@ -1547,9 +1557,19 @@
    "license": "GPL-2.0"
   },
   {
+   "repo_full_name": "kevinbadi/jev-voice",
+   "path": null,
+   "stars": 128,
+   "description": "Talk to your Mac. Local whisper.cpp + one Jev (TypeSafe) call per command + macOS automation.",
+   "kind": "agent",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "savka777/jev-use",
    "path": null,
-   "stars": 127,
+   "stars": 128,
    "description": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
    "kind": "agent",
    "security_grade": "safe",
@@ -1567,23 +1587,13 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "kevinbadi/jev-voice",
-   "path": null,
-   "stars": 126,
-   "description": "Talk to your Mac. Local whisper.cpp + one Jev (TypeSafe) call per command + macOS automation.",
-   "kind": "agent",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "agent-labs-dev/fastbrowse",
    "path": null,
-   "stars": 120,
+   "stars": 121,
    "description": "A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page.",
    "kind": "agent",
    "security_grade": "safe",
-   "language": "Python",
+   "language": "Rust",
    "license": "MIT"
   },
   {
@@ -1609,7 +1619,7 @@
   {
    "repo_full_name": "Dimweaker/jev-libero",
    "path": null,
-   "stars": 84,
+   "stars": 87,
    "description": "Fine-grained robot control with Jev, physics previews, and configurable LIBERO tasks.",
    "kind": "agent",
    "security_grade": "safe",
@@ -1649,7 +1659,7 @@
   {
    "repo_full_name": "OmniJev/PlayJev",
    "path": null,
-   "stars": 60,
+   "stars": 61,
    "description": "🚀🚀 A 0.8B JEV-like multimodal model playing GUI games directly from raw pixels.",
    "kind": "agent",
    "security_grade": "safe",
@@ -1669,7 +1679,7 @@
   {
    "repo_full_name": "jiangkoumo/ego-decision-layer",
    "path": null,
-   "stars": 29,
+   "stars": 30,
    "description": "Pluggable decision layer for the ego lite browser: one System One (Jev) call per step replaces the per-step LLM turn, and the backend can be swapped for a local OpenAI-compatible model. Fail-closed execution guards. The measured one — raw bench data, 16 suites, changelog with corrections.",
    "kind": "agent",
    "security_grade": "safe",
@@ -1749,7 +1759,7 @@
   {
    "repo_full_name": "tamaratran/fast-jev-compaction",
    "path": null,
-   "stars": 7792,
+   "stars": 7795,
    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1759,7 +1769,7 @@
   {
    "repo_full_name": "dzhng/jevgrep",
    "path": null,
-   "stars": 3000,
+   "stars": 3062,
    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1769,7 +1779,7 @@
   {
    "repo_full_name": "reticlehq/reticle",
    "path": null,
-   "stars": 1277,
+   "stars": 1282,
    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native runtime perception to web & desktop applications.",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1799,7 +1809,7 @@
   {
    "repo_full_name": "thruwire/foreman",
    "path": null,
-   "stars": 793,
+   "stars": 794,
    "description": "An agent supervisor and software factory foreman powered by decision models",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1809,7 +1819,7 @@
   {
    "repo_full_name": "AgriciDaniel/jev-seo",
    "path": null,
-   "stars": 721,
+   "stars": 724,
    "description": "Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports.",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1819,7 +1829,7 @@
   {
    "repo_full_name": "devagrawal09/jev-review",
    "path": null,
-   "stars": 688,
+   "stars": 693,
    "description": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1839,7 +1849,7 @@
   {
    "repo_full_name": "BillionsBobby/JevRouter",
    "path": null,
-   "stars": 468,
+   "stars": 466,
    "description": "A lightweight Jev-powered router for models, tools, and subagents",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1869,7 +1879,7 @@
   {
    "repo_full_name": "itsmostafa/system-one-connector",
    "path": null,
-   "stars": 354,
+   "stars": 355,
    "description": "System One MCP connector to evaluate anything fast and cheap. Give your AI agent direct access to models like: Jev, D1, CLM and Laya",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1879,7 +1889,7 @@
   {
    "repo_full_name": "lakeday-org/perch",
    "path": null,
-   "stars": 353,
+   "stars": 354,
    "description": "Semantic code and security scanner",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1889,7 +1899,7 @@
   {
    "repo_full_name": "codejunkie99/keel",
    "path": null,
-   "stars": 337,
+   "stars": 338,
    "description": "Local-first macOS coding workspace with local Laya and optional Jev decision selection",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1899,7 +1909,7 @@
   {
    "repo_full_name": "vinilana/jev-gateway",
    "path": null,
-   "stars": 323,
+   "stars": 322,
    "description": "An easy way to use jev with your coding agent for tool calling reasoning",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1919,7 +1929,7 @@
   {
    "repo_full_name": "0xNatoshi/jev-codex-router",
    "path": null,
-   "stars": 273,
+   "stars": 274,
    "description": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1929,7 +1939,7 @@
   {
    "repo_full_name": "Devin-AXIS/jev-dsh-decision",
    "path": null,
-   "stars": 265,
+   "stars": 267,
    "description": "Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。",
    "kind": "devtool",
    "security_grade": "safe",
@@ -1997,23 +2007,23 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "dbreunig/building-with-jev-skill",
-   "path": null,
-   "stars": 159,
-   "description": "A skill for writing and improving programs that call Jev, TypeSafe's System One model",
-   "kind": "devtool",
-   "security_grade": "safe",
-   "language": null,
-   "license": null
-  },
-  {
    "repo_full_name": "YUTA-fywoo/jev-gui-delegate",
    "path": null,
-   "stars": 151,
+   "stars": 160,
    "description": "AI-assisted Windows and Chrome GUI delegation for Codex: task contracts, local execution, Jev semantic decisions, recovery and outcome verification.",
    "kind": "devtool",
    "security_grade": "safe",
    "language": "Python",
+   "license": null
+  },
+  {
+   "repo_full_name": "dbreunig/building-with-jev-skill",
+   "path": null,
+   "stars": 160,
+   "description": "A skill for writing and improving programs that call Jev, TypeSafe's System One model",
+   "kind": "devtool",
+   "security_grade": "safe",
+   "language": null,
    "license": null
   },
   {
@@ -2049,7 +2059,7 @@
   {
    "repo_full_name": "UditAkhourii/quicksilver",
    "path": null,
-   "stars": 132,
+   "stars": 133,
    "description": "Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install.",
    "kind": "devtool",
    "security_grade": "safe",
@@ -2059,7 +2069,7 @@
   {
    "repo_full_name": "leepokai/jev-guard",
    "path": null,
-   "stars": 130,
+   "stars": 131,
    "description": "Auto mode for every coding agent, built on Jev: risk-scores every tool call with session context (deny / ask / allow), flags prompt injection in results, checks skills and plugins. Claude Code, Codex, Copilot, Gemini, Cursor, pi, OpenCode, ACP.",
    "kind": "devtool",
    "security_grade": "safe",
@@ -2107,6 +2117,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "can1357/jegrep",
+   "path": null,
+   "stars": 121,
+   "description": "Semantic grep: find code by describing what you're looking for, powered by Jev.",
+   "kind": "devtool",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "devagrawal09/stanley-code",
    "path": null,
    "stars": 119,
@@ -2127,19 +2147,9 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "can1357/jegrep",
-   "path": null,
-   "stars": 117,
-   "description": "Semantic grep: find code by describing what you're looking for, powered by Jev.",
-   "kind": "devtool",
-   "security_grade": "safe",
-   "language": "Rust",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "thinkany-ai/autojev",
    "path": null,
-   "stars": 108,
+   "stars": 110,
    "description": "The model router for AI agents.",
    "kind": "devtool",
    "security_grade": "safe",
@@ -2159,7 +2169,7 @@
   {
    "repo_full_name": "ellipsis-dev/blink",
    "path": null,
-   "stars": 99,
+   "stars": 100,
    "description": "Codebase search powered by Jev from @typesafe-ai",
    "kind": "devtool",
    "security_grade": "safe",
@@ -2259,7 +2269,7 @@
   {
    "repo_full_name": "FrancoisChastel/jev-code",
    "path": null,
-   "stars": 56,
+   "stars": 55,
    "description": "Jev, TypeSafe's System One classifier, as a tool inside Claude Code, Codex, Pi, and OpenCode: typed classify, check, score, rank, and ask, plus one-command setup.",
    "kind": "devtool",
    "security_grade": "safe",
@@ -2427,6 +2437,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "mikekelly/s1m",
+   "path": null,
+   "stars": 12,
+   "description": "High efficiency knowledge recall from an LLM Wiki powered by Jev",
+   "kind": "devtool",
+   "security_grade": "caution",
+   "language": "Rust",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "eugeniughelbur/jev-engineering",
    "path": null,
    "stars": 11,
@@ -2434,16 +2454,6 @@
    "kind": "devtool",
    "security_grade": "caution",
    "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "mikekelly/s1m",
-   "path": null,
-   "stars": 11,
-   "description": "High efficiency knowledge recall from an LLM Wiki powered by Jev",
-   "kind": "devtool",
-   "security_grade": "caution",
-   "language": "Rust",
    "license": "MIT"
   },
   {
@@ -2477,6 +2487,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "AIGNLAI/ReflexRoute",
+   "path": null,
+   "stars": 9,
+   "description": "Fast zero-shot and few-shot LLM routing powered by Jev.",
+   "kind": "devtool",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "okjpg/jev-hermes-router",
    "path": null,
    "stars": 9,
@@ -2491,16 +2511,6 @@
    "path": null,
    "stars": 9,
    "description": "Ask a yes/no question of every function in a codebase. Ranked answers in seconds, for cents. Grep whose pattern is a question, powered by TypeSafe Jev.",
-   "kind": "devtool",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "AIGNLAI/ReflexRoute",
-   "path": null,
-   "stars": 8,
-   "description": "Fast zero-shot and few-shot LLM routing powered by Jev.",
    "kind": "devtool",
    "security_grade": "safe",
    "language": "Python",
@@ -2649,7 +2659,7 @@
   {
    "repo_full_name": "realZachi/pg-jev",
    "path": null,
-   "stars": 1224,
+   "stars": 1228,
    "description": "Ask your Postgres tables questions in plain language. A PostgreSQL extension powered by TypeSafe's Jev.",
    "kind": "sdk",
    "security_grade": "safe",
@@ -2857,20 +2867,20 @@
    "license": "Apache-2.0"
   },
   {
-   "repo_full_name": "0814wdwd/solo_jev",
+   "repo_full_name": "CharlesFeng0314/JEV_sees",
    "path": null,
-   "stars": 13,
-   "description": "Per-row semantic judgements over large relational tables on a decision model (Jev)",
+   "stars": 14,
+   "description": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
    "kind": "sdk",
    "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
-   "repo_full_name": "CharlesFeng0314/JEV_sees",
+   "repo_full_name": "0814wdwd/solo_jev",
    "path": null,
    "stars": 13,
-   "description": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
+   "description": "Per-row semantic judgements over large relational tables on a decision model (Jev)",
    "kind": "sdk",
    "security_grade": "safe",
    "language": "Python",
@@ -3017,6 +3027,16 @@
    "license": null
   },
   {
+   "repo_full_name": "jkrup/jeveryword",
+   "path": null,
+   "stars": 6,
+   "description": "Text extraction with Jev: field extraction, PII detection and exact quotes, built on TypeSafe's Jev.",
+   "kind": "sdk",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "shitianfang/wakegate",
    "path": null,
    "stars": 6,
@@ -3057,16 +3077,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "jkrup/jeveryword",
-   "path": null,
-   "stars": 5,
-   "description": "Text extraction with Jev: field extraction, PII detection and exact quotes, built on TypeSafe's Jev.",
-   "kind": "sdk",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "mountainMath/JevR",
    "path": null,
    "stars": 5,
@@ -3099,7 +3109,7 @@
   {
    "repo_full_name": "OpenByteInc/QuantDinger",
    "path": null,
-   "stars": 13232,
+   "stars": 13278,
    "description": "Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch your own multi-tenant trading SaaS with built-in user management, billing, payments, and settlement.",
    "kind": "business",
    "security_grade": "safe",
@@ -3129,7 +3139,7 @@
   {
    "repo_full_name": "imikerussell/beebots",
    "path": null,
-   "stars": 331,
+   "stars": 332,
    "description": "Three AI trading bees on OKX, every decision by Jev. Paper trading by default. Not financial advice.",
    "kind": "business",
    "security_grade": "safe",
@@ -3139,7 +3149,7 @@
   {
    "repo_full_name": "aowang-ai/jev-trade",
    "path": null,
-   "stars": 225,
+   "stars": 226,
    "description": "Live Jev trader on Hyperliquid",
    "kind": "business",
    "security_grade": "safe",
@@ -3149,8 +3159,8 @@
   {
    "repo_full_name": "brainstormity/Jev-X-Sentiment-Analysis",
    "path": null,
-   "stars": 225,
-   "description": null,
+   "stars": 226,
+   "description": "An on-demand crypto market intelligence and decision-support terminal powered by TypeSafe AI's System One model",
    "kind": "business",
    "security_grade": "safe",
    "language": "Python",
@@ -3169,7 +3179,7 @@
   {
    "repo_full_name": "sharziki/semdecide",
    "path": null,
-   "stars": 81,
+   "stars": 82,
    "description": "Typed semantic decisions for Unix pipelines and CI, powered by TypeSafe AI Jev.",
    "kind": "business",
    "security_grade": "safe",
@@ -3259,7 +3269,7 @@
   {
    "repo_full_name": "anishfn/shapeshift",
    "path": null,
-   "stars": 1038,
+   "stars": 1043,
    "description": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline.",
    "kind": "consumer",
    "security_grade": "safe",
@@ -3269,7 +3279,7 @@
   {
    "repo_full_name": "jev-chat/jev-chat-windows",
    "path": null,
-   "stars": 860,
+   "stars": 861,
    "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
    "kind": "consumer",
    "security_grade": "safe",
@@ -3279,7 +3289,7 @@
   {
    "repo_full_name": "shengjidaguai-china/goutoujunshi-jev-chat",
    "path": null,
-   "stars": 533,
+   "stars": 541,
    "description": "狗头军师 Chat：Mac 微信读屏、关系分析与回复草稿悬浮窗",
    "kind": "consumer",
    "security_grade": "safe",
@@ -3309,7 +3319,7 @@
   {
    "repo_full_name": "MiaoWuNYA/rikkahub-sillytavern-android",
    "path": null,
-   "stars": 141,
+   "stars": 146,
    "description": "安卓AI聊天端:开箱即聊，无损导入酒馆卡，缓存强省用量，Jev 决策，专属RP模式，防空回，主动信息，前端卡支持，高定制主题，QQbot，AI群聊，插件系统，强兼容中转站。手机移动端原生支持，求 Star 收藏⭐Android AI Chatbox: lossless SillyTavern card import, aggressive cache optimization, Jev decisions, multi-dimensional memory, anti-blank-reply, proactive messages, AI group chat, SillyTavern themes, plugin system, Native mobile.RikkaHub",
    "kind": "consumer",
    "security_grade": "safe",
