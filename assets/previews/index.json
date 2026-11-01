@@ -49,6 +49,16 @@
   "file": "BingoWon__apple-rag-mcp.jpg",
   "still": "BingoWon__apple-rag-mcp.jpg"
  },
+ "Seheta/netizen": {
+  "repo": "Seheta/netizen",
+  "url": "https://raw.githubusercontent.com/Seheta/netizen/HEAD/docs/header.webp",
+  "alt": "netizen: simulate online reactions",
+  "score": 0.0,
+  "type": "image/webp",
+  "bytes": 55760,
+  "file": "Seheta__netizen.jpg",
+  "still": "Seheta__netizen.jpg"
+ },
  "Sheltercosmo/jev4pg": {
   "repo": "Sheltercosmo/jev4pg",
   "url": "https://raw.githubusercontent.com/Sheltercosmo/jev4pg/HEAD/docs/assets/product-tour.gif?v=b87ec970",
@@ -178,6 +188,16 @@
   "bytes": 1198630,
   "file": "sedum-dev__sedum.gif",
   "still": "sedum-dev__sedum.jpg"
+ },
+ "shashikantdev3/decision-models-lab": {
+  "repo": "shashikantdev3/decision-models-lab",
+  "url": "https://raw.githubusercontent.com/shashikantdev3/decision-models-lab/HEAD/docs/screenshots/desk-1440-light.png",
+  "alt": "The Triage Desk: tickets as strips on a board, confident ones in team bays, unsu",
+  "score": -2.65,
+  "type": "image/png",
+  "bytes": 126220,
+  "file": "shashikantdev3__decision-models-lab.jpg",
+  "still": "shashikantdev3__decision-models-lab.jpg"
  },
  "zzsong1023/jev-market-reflex": {
   "repo": "zzsong1023/jev-market-reflex",
