@@ -39,15 +39,15 @@
   "file": "Arindam200__fr.gif",
   "still": "Arindam200__fr.jpg"
  },
- "BingoWon/apple-rag-mcp": {
-  "repo": "BingoWon/apple-rag-mcp",
-  "url": "https://apple-rag.com/og-image-jev.png",
-  "alt": "Apple RAG MCP — Powered by Jev",
-  "score": -0.2,
-  "type": "image/png",
-  "bytes": 167752,
-  "file": "BingoWon__apple-rag-mcp.jpg",
-  "still": "BingoWon__apple-rag-mcp.jpg"
+ "Mushroom-Systems/lichen-v1": {
+  "repo": "Mushroom-Systems/lichen-v1",
+  "url": "https://raw.githubusercontent.com/Mushroom-Systems/lichen-v1/HEAD/docs/images/stop-sign.jpg",
+  "alt": "A person in a blue dress standing next to a stop sign",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 80818,
+  "file": "Mushroom-Systems__lichen-v1.jpg",
+  "still": "Mushroom-Systems__lichen-v1.jpg"
  },
  "Seheta/netizen": {
   "repo": "Seheta/netizen",
@@ -198,6 +198,16 @@
   "bytes": 126220,
   "file": "shashikantdev3__decision-models-lab.jpg",
   "still": "shashikantdev3__decision-models-lab.jpg"
+ },
+ "taeold/djev-run": {
+  "repo": "taeold/djev-run",
+  "url": "https://github.com/user-attachments/assets/2e9a5321-f8a9-4734-b6f2-4d6f47193390",
+  "alt": "djev snake",
+  "score": -0.05,
+  "type": "image/gif",
+  "bytes": 1460196,
+  "file": "taeold__djev-run.gif",
+  "still": "taeold__djev-run.jpg"
  },
  "zzsong1023/jev-market-reflex": {
   "repo": "zzsong1023/jev-market-reflex",
