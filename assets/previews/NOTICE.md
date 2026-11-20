@@ -26,5 +26,6 @@ authors and stay under the license of the project they come from. To have one re
 | `shashikantdev3__decision-models-lab.jpg` | [shashikantdev3/decision-models-lab](https://github.com/shashikantdev3/decision-models-lab) | MIT | [source](https://raw.githubusercontent.com/shashikantdev3/decision-models-lab/HEAD/docs/screenshots/desk-1440-light.png) |
 | `Sheltercosmo__jev4pg.gif` | [Sheltercosmo/jev4pg](https://github.com/Sheltercosmo/jev4pg) | Apache-2.0 | [source](https://raw.githubusercontent.com/Sheltercosmo/jev4pg/HEAD/docs/assets/product-tour.gif?v=b87ec970) |
 | `taeold__djev-run.gif` | [taeold/djev-run](https://github.com/taeold/djev-run) | Apache-2.0 | [source](https://github.com/user-attachments/assets/2e9a5321-f8a9-4734-b6f2-4d6f47193390) |
+| `Todmy__jevqa.gif` | [Todmy/jevqa](https://github.com/Todmy/jevqa) | MIT | [source](https://raw.githubusercontent.com/Todmy/jevqa/HEAD/docs/demo.gif) |
 | `Valen-Team__Valen.gif` | [Valen-Team/Valen](https://github.com/Valen-Team/Valen) | Apache-2.0 | [source](https://raw.githubusercontent.com/Valen-Team/Valen/HEAD/assets/demos/games/valen-sokoban-preview.gif) |
 | `zzsong1023__jev-market-reflex.gif` | [zzsong1023/jev-market-reflex](https://github.com/zzsong1023/jev-market-reflex) | MIT | [source](https://raw.githubusercontent.com/zzsong1023/jev-market-reflex/HEAD/assets/demo.gif) |

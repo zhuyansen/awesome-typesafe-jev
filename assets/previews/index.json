@@ -69,6 +69,16 @@
   "file": "Sheltercosmo__jev4pg.gif",
   "still": "Sheltercosmo__jev4pg.jpg"
  },
+ "Todmy/jevqa": {
+  "repo": "Todmy/jevqa",
+  "url": "https://raw.githubusercontent.com/Todmy/jevqa/HEAD/docs/demo.gif",
+  "alt": "jevqa run: checklist, exploration, flags, report.md",
+  "score": 2.5,
+  "type": "image/gif",
+  "bytes": 141491,
+  "file": "Todmy__jevqa.gif",
+  "still": "Todmy__jevqa.jpg"
+ },
  "Valen-Team/Valen": {
   "repo": "Valen-Team/Valen",
   "url": "https://raw.githubusercontent.com/Valen-Team/Valen/HEAD/assets/demos/games/valen-sokoban-preview.gif",
