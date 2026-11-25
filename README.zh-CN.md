@@ -100,26 +100,26 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) | 1.6k | 将任意 LLM 转为 Jev 风格决策模型：类型化决策、真实概率、无需训练。持续更新，欢迎提交 issue 和 PR。 | [SAFE](https://agentskillshub.top/skill/nokia-applied-research/AnyJev/) |
+| [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) | 1.7k | 将任意 LLM 转为 Jev 风格决策模型：类型化决策、真实概率、无需训练。持续更新，欢迎提交 issue 和 PR。 | [SAFE](https://agentskillshub.top/skill/nokia-applied-research/AnyJev/) |
 | [kerpopule/hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills) | 1.4k | 基于Jev的模型路由、记忆、压缩、skill选择及Hermes agents的电脑和浏览器操作（支持Claude Code和Codex） | [SAFE](https://agentskillshub.top/skill/kerpopule/hermes-jev-skills/) |
-| [datawhalechina/jev-cookbook](https://github.com/datawhalechina/jev-cookbook) | 690 | Jev 入门：用 Jupyter Notebook 实验问题原语、实战配方、语音智能家居、模型评测与本地微调，了解 System One 判断模型开发范式 | [SAFE](https://agentskillshub.top/skill/datawhalechina/jev-cookbook/) |
-| [jkudish/jev-mcp](https://github.com/jkudish/jev-mcp) | 591 | 将 TypeSafe 的 Jev 模型提供的快速、低成本、类型化判断作为 MCP 工具。 | [SAFE](https://agentskillshub.top/skill/jkudish/jev-mcp/) |
+| [datawhalechina/jev-cookbook](https://github.com/datawhalechina/jev-cookbook) | 692 | Jev 入门：用 Jupyter Notebook 实验问题原语、实战配方、语音智能家居、模型评测与本地微调，了解 System One 判断模型开发范式 | [SAFE](https://agentskillshub.top/skill/datawhalechina/jev-cookbook/) |
+| [jkudish/jev-mcp](https://github.com/jkudish/jev-mcp) | 594 | 将 TypeSafe 的 Jev 模型提供的快速、低成本、类型化判断作为 MCP 工具。 | [SAFE](https://agentskillshub.top/skill/jkudish/jev-mcp/) |
 | [anteloc/ldraw-nova](https://github.com/anteloc/ldraw-nova) | 565 | 用于生成式 LEGO 模型构建的 agent 工具，基于 Astra 和 Opus 5.5，由 Jev 驱动 | [SAFE](https://agentskillshub.top/skill/anteloc/ldraw-nova/) |
-| [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search) | 563 | 使用 TypeSafe 的 Jev 搜索网页：来源选择、查询理解和相关性排序。基于 Search1API 构建。 | [SAFE](https://agentskillshub.top/skill/superagents-lab/jev-search/) |
+| [superagents-lab/jev-search](https://github.com/superagents-lab/jev-search) | 562 | 使用 TypeSafe 的 Jev 搜索网页：来源选择、查询理解和相关性排序。基于 Search1API 构建。 | [SAFE](https://agentskillshub.top/skill/superagents-lab/jev-search/) |
 | [TianyuCodings/JevHarness](https://github.com/TianyuCodings/JevHarness) | 561 | 由 LLM 编写的特定任务 Jev harness，支持完整轨迹奖励反思和 GEPA 演化。 | [SAFE](https://agentskillshub.top/skill/TianyuCodings/JevHarness/) |
 | [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) | 414 | Jev 实验：Devin 构建的延迟演示。每个应用有独立顶层目录、README、TESTING.md 和截图。 | [SAFE](https://agentskillshub.top/skill/dabit3/jev-experiments/) |
 | [kitze/unclutter](https://github.com/kitze/unclutter) | 395 | WXT 浏览器扩展：基于 Jev 清除页面杂乱内容，支持可复用模板规则。 | [SAFE](https://agentskillshub.top/skill/kitze/unclutter/) |
 | [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) | 323 | 使用 Jev 和 GEPA 基于人工反馈构建校准的 AI Functions。 | [SAFE](https://agentskillshub.top/skill/sutro-sh/jev-align/) |
 | [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) | 305 | 在 MuJoCo 中，仅用摄像头的自主无人机，由小型判断模型（TypeSafe Jev）以 2.5Hz 参与闭环 | [SAFE](https://agentskillshub.top/skill/RomanSlack/jev-drone/) |
+| [libingzheren/Jev-Mem](https://github.com/libingzheren/Jev-Mem) | 280 | Jev-Mem：由 System-One 控制的智能体记忆 | [SAFE](https://agentskillshub.top/skill/libingzheren/Jev-Mem/) |
 | [monteduro/killmyidea](https://github.com/monteduro/killmyidea) | 280 | 描述你的创业想法。Jev 决定：放弃、改进还是发布。 | [SAFE](https://agentskillshub.top/skill/monteduro/killmyidea/) |
-| [libingzheren/Jev-Mem](https://github.com/libingzheren/Jev-Mem) | 278 | Jev-Mem：由 System-One 控制的智能体记忆 | [SAFE](https://agentskillshub.top/skill/libingzheren/Jev-Mem/) |
-| [disler/ten-levels-of-jev](https://github.com/disler/ten-levels-of-jev) | 277 | Jev的十个层级：从一个聪明的if语句，到会自行调用Jev的编码agent | [SAFE](https://agentskillshub.top/skill/disler/ten-levels-of-jev/) |
+| [disler/ten-levels-of-jev](https://github.com/disler/ten-levels-of-jev) | 278 | Jev的十个层级：从一个聪明的if语句，到会自行调用Jev的编码agent | [SAFE](https://agentskillshub.top/skill/disler/ten-levels-of-jev/) |
 | [Sheltercosmo/jev4pg](https://github.com/Sheltercosmo/jev4pg) | 262 | 基于 JEV 的自然语言转 SQL 性能良好，PostgreSQL(PG) 语义算子覆盖完善；可复用证据、原生执行、并行计划和可解释嵌入正在开发预览中。 | [SAFE](https://agentskillshub.top/skill/Sheltercosmo/jev4pg/) |
 | [jmagly/aiwg](https://github.com/jmagly/aiwg) | 233 | Claude Code、Codex、Copilot、Cursor的上下文和工作流，含agent、skill、规则、MCP、SDLC、会话记忆及Jev决策支持 | [SAFE](https://agentskillshub.top/skill/jmagly/aiwg/) |
 | [HarnessRouter/SystemOneHarness](https://github.com/HarnessRouter/SystemOneHarness) | 212 | System One 模型的运行框架。在本地或通过 HarnessRouter.ai 运行 Jev 等 System One 模型。 | [SAFE](https://agentskillshub.top/skill/HarnessRouter/SystemOneHarness/) |
 | [jexp/neo4jev](https://github.com/jexp/neo4jev) | 190 | Typesafe.ai System One Model Jev 使用邻接关系分类器遍历 Neo4j 图 | [SAFE](https://agentskillshub.top/skill/jexp/neo4jev/) |
 | [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | 188 | System 1决策模型（Jev、Laya、Cua-S1）：agent的大脑，用于浏览器、电脑、游戏和机器人操作 | [SAFE](https://agentskillshub.top/skill/ThinkFlowLab/system1-agents/) |
-| [disler/pi-durable-news-agent](https://github.com/disler/pi-durable-news-agent) | 179 | 主动运行的 pi-durable 新闻 agent，按 cron 定时扫描并用 jev 将每条新闻分为 Hype、Facts、Signal。支持 Mac、常开… | [SAFE](https://agentskillshub.top/skill/disler/pi-durable-news-agent/) |
+| [disler/pi-durable-news-agent](https://github.com/disler/pi-durable-news-agent) | 182 | 主动运行的 pi-durable 新闻 agent，按 cron 定时扫描并用 jev 将每条新闻分为 Hype、Facts、Signal。支持 Mac、常开… | [SAFE](https://agentskillshub.top/skill/disler/pi-durable-news-agent/) |
 | [artemnovitckii/creator-lab](https://github.com/artemnovitckii/creator-lab) | 178 | 使用 Apify、Jev 和 Fireworks 或 Groq 研究 Instagram Reel 脚本。自备密钥，比较开头并记录模式。 | [SAFE](https://agentskillshub.top/skill/artemnovitckii/creator-lab/) |
 | [uehaj/sys1grep](https://github.com/uehaj/sys1grep) | 157 | 按语义跨语言 grep。TypeSafe Jev 为每行评分，支持用 AND/OR/NOT 组合语义；可用日语搜英语，也可反向搜索。 | [SAFE](https://agentskillshub.top/skill/uehaj/sys1grep/) |
 | [CTNicholas/jev-workflow-builder](https://github.com/CTNicholas/jev-workflow-builder) | 153 | Jev 工作流构建器：用 Liveblocks 实现多人工作流，连接 Jev 与 LLM，调用 REST API 并预览测试运行。 | [SAFE](https://agentskillshub.top/skill/CTNicholas/jev-workflow-builder/) |
@@ -130,17 +130,17 @@
 | [NanmiCoder/jev-arena](https://github.com/NanmiCoder/jev-arena) | 126 | Jev：将自然语言转为带类型的判断与概率，用于分类、评分和路由；支持模型对比、表格导入、回放与离线报告。 | [SAFE](https://agentskillshub.top/skill/NanmiCoder/jev-arena/) |
 | [trungdq88/youtube-sponsor-detection](https://github.com/trungdq88/youtube-sponsor-detection) | 118 | 使用实时音频和字幕检测 YouTube 赞助片段，由 Jev 提供支持 | [SAFE](https://agentskillshub.top/skill/trungdq88/youtube-sponsor-detection/) |
 | [deepanwadhwa/OpenDecision](https://github.com/deepanwadhwa/OpenDecision) | 117 | OpenDecision 是类似 typesafe jev 的开源语义决策引擎。 | [SAFE](https://agentskillshub.top/skill/deepanwadhwa/OpenDecision/) |
-| [ChetasLua/jevmeter](https://github.com/ChetasLua/jevmeter) | 114 | 为任意视频添加实时 Jev (TypeSafe) 计量器：逐句评分，渲染为 16:9 成片 | [SAFE](https://agentskillshub.top/skill/ChetasLua/jevmeter/) |
+| [ChetasLua/jevmeter](https://github.com/ChetasLua/jevmeter) | 115 | 为任意视频添加实时 Jev (TypeSafe) 计量器：逐句评分，渲染为 16:9 成片 | [SAFE](https://agentskillshub.top/skill/ChetasLua/jevmeter/) |
 | [vinilana/jev-eval-agent](https://github.com/vinilana/jev-eval-agent) | 111 | 基于 eve 的个人助理 agent，含100个模拟工具，经 OpenRouter 提供；比较 LLM 自选工具与 Jev（TypeSafe 分类器）选工具完… | [SAFE](https://agentskillshub.top/skill/vinilana/jev-eval-agent/) |
 | [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) | 109 | Gmail 邮件分类工具：Jev、TypeSafe AI、Vercel AI Gateway；分类为需回复、更新、促销、销售、垃圾邮件；只读、本地运行。 | [SAFE](https://agentskillshub.top/skill/fazlerocks/jevmail/) |
-| [kyle-pena-nlp/jevchat](https://github.com/kyle-pena-nlp/jevchat) | 104 | 把 Jev 变成聊天机器人 | [SAFE](https://agentskillshub.top/skill/kyle-pena-nlp/jevchat/) |
+| [kyle-pena-nlp/jevchat](https://github.com/kyle-pena-nlp/jevchat) | 105 | 把 Jev 变成聊天机器人 | [SAFE](https://agentskillshub.top/skill/kyle-pena-nlp/jevchat/) |
 | [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock) | 97 | Chrome 扩展用小型 AI 决策模型 TypeSafe Jev 判断并移除广告 DOM 元素。支持 BYOK，无后端，不是真正的广告拦截器。 | [SAFE](https://agentskillshub.top/skill/realZachi/typesafe-adblock/) |
 | [jonathanavis96/jev-kit](https://github.com/jonathanavis96/jev-kit) | 92 | 运行 TypeSafe 的 Jev 所需工具：Claude Code 工具调用防护、层级防护、文件搜索、浏览器 agent、审查、belay、压缩和安装程序。 | [CAUTION](https://agentskillshub.top/skill/jonathanavis96/jev-kit/) |
 | [AboveColin/HA-Jev](https://github.com/AboveColin/HA-Jev) | 91 | 向你的房子提问，获取数字。TypeSafe Jev 的 Home Assistant 集成：类型化答案传感器、四个自动化动作和 Assist 对话代理。 | [SAFE](https://agentskillshub.top/skill/AboveColin/HA-Jev/) |
 | [AustinAWay/Working-Memory-Jev](https://github.com/AustinAWay/Working-Memory-Jev) | 84 | 帮助教育者检查文本是否让学习者同时处理过多概念或关系。基于真实 Jev API 提供分组、来源关联和认知负荷变化建议；属实验性工具，数值未经验证。 | [SAFE](https://agentskillshub.top/skill/AustinAWay/Working-Memory-Jev/) |
 | [HITsz-TMG/JevEmbed](https://github.com/HITsz-TMG/JevEmbed) | 80 | JevEmbed：用你选择的嵌入模型进行选择、评分和判断，把嵌入转化为决策。 | [SAFE](https://agentskillshub.top/skill/HITsz-TMG/JevEmbed/) |
 | [RenaGao/jev-dataops](https://github.com/RenaGao/jev-dataops) | 74 | 开源的 JEV 驱动工作台，用于流式数据筛选、质量评估、自动 LoRA 训练和留出模型评估。 | [SAFE](https://agentskillshub.top/skill/RenaGao/jev-dataops/) |
-| [mizchi/jev-playground](https://github.com/mizchi/jev-playground) | 73 | 从 MoonBit 使用 Jev 的 playground：返回类型化概率决策。含 API 客户端、CLI、五子棋对战、GIF 生成和决策模式示例。 | [SAFE](https://agentskillshub.top/skill/mizchi/jev-playground/) |
+| [mizchi/jev-playground](https://github.com/mizchi/jev-playground) | 74 | 从 MoonBit 使用 Jev 的 playground：返回类型化概率决策。含 API 客户端、CLI、五子棋对战、GIF 生成和决策模式示例。 | [SAFE](https://agentskillshub.top/skill/mizchi/jev-playground/) |
 | [achimala/jev-paint](https://github.com/achimala/jev-paint) | 68 | 使用 Jev 创作艺术作品！ | [SAFE](https://agentskillshub.top/skill/achimala/jev-paint/) |
 | [bilune/jev-design](https://github.com/bilune/jev-design) | 64 | 模型能设计仪表盘吗？Jev 根据一句话简介运行时生成整套设计系统的控制台。 | [SAFE](https://agentskillshub.top/skill/bilune/jev-design/) |
 | [bodepudimuneendra-netizen/ConsciousDB](https://github.com/bodepudimuneendra-netizen/ConsciousDB) | 56 | 兼容任意数据库的 Agentic GraphRAG 框架，支持切换 System One 模型（本地 Laya/云端 Jev），提供四阶段流程、持续评估和自定… | [SAFE](https://agentskillshub.top/skill/bodepudimuneendra-netizen/ConsciousDB/) |
@@ -162,8 +162,8 @@
 | [backant-io/jevelry](https://github.com/backant-io/jevelry) | 13 | 使用 Jev 制定并跟踪所有决策 | [SAFE](https://agentskillshub.top/skill/backant-io/jevelry/) |
 | [usail-hkust/JevLight](https://github.com/usail-hkust/JevLight) | 11 | 基于 Jev 的 CityFlow 交通信号控制，结构化决定相位和绿灯时长。 | [SAFE](https://agentskillshub.top/skill/usail-hkust/JevLight/) |
 | [Jalil-g/Immune-Harness](https://github.com/Jalil-g/Immune-Harness) | 10 | Immune Harness 是 AI agent 安全层，执行前检查工具调用并拦截风险调用。Jev 发现新攻击后编写或改写策略，测试后上线。 | [SAFE](https://agentskillshub.top/skill/Jalil-g/Immune-Harness/) |
+| [scale-venture-partners/riff](https://github.com/scale-venture-partners/riff) | 9 | 小巧快速的文本检查器：采用 Ruff 风格规则代码，由 TypeSafe 的 Jev 模型支持 | [SAFE](https://agentskillshub.top/skill/scale-venture-partners/riff/) |
 | [lookski/openjev](https://github.com/lookski/openjev) | 8 | 开放决策引擎：本地 LLM 或 OpenAI 兼容 API，类型安全回答与原始 softmax 概率。微信/QQ/Telegram 追人雷达：结论及下一步建议。 | [SAFE](https://agentskillshub.top/skill/lookski/openjev/) |
-| [scale-venture-partners/riff](https://github.com/scale-venture-partners/riff) | 8 | 小巧快速的文本检查器：采用 Ruff 风格规则代码，由 TypeSafe 的 Jev 模型支持 | [SAFE](https://agentskillshub.top/skill/scale-venture-partners/riff/) |
 | [Code-Forge-AU/jev-llm](https://github.com/Code-Forge-AU/jev-llm) | 7 | TypeSafe 的 Jev 是决策模型：根据状态和类型化问题返回各选项的校准概率。它不生成文本；本项目仅用 Jev 逐词生成文本。 | [SAFE](https://agentskillshub.top/skill/Code-Forge-AU/jev-llm/) |
 | [Parthkomalwad/jevbrief](https://github.com/Parthkomalwad/jevbrief) | 7 | 为 TypeSafe 的 Jev 模型提供清晰、可追溯的状态简报 | [SAFE](https://agentskillshub.top/skill/Parthkomalwad/jevbrief/) |
 | [dani1005/book-aurora](https://github.com/dani1005/book-aurora) | 6 | Jev在几秒内读完整本小说，每段文字都变成一行颜色。 | [SAFE](https://agentskillshub.top/skill/dani1005/book-aurora/) |
@@ -193,25 +193,25 @@
 | [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) | 1.5k | 本地运行 Laya、decider、NLI、GLiClass 决策模型，提供兼容 TypeSafe 的 API；使用 Ollama。 | [SAFE](https://agentskillshub.top/skill/ollaya-dev/ollaya/) |
 | [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) | 1.4k | 训练小模型从变化的文本选项中选择并输出各项概率；Jevlike与Jev输入输出形状相同。演示：同一注意力头可为图像控制器按钮评分 | [SAFE](https://agentskillshub.top/skill/vinnylarouge/jevlike/) |
 | [receptron/laya](https://github.com/receptron/laya) | 1.1k | 在 Node.js / TypeScript 中通过 ONNX Runtime 运行开源的 Jev 兼容 System-1 决策模型 Laya | [SAFE](https://agentskillshub.top/skill/receptron/laya/) |
-| [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) | 969 | Jev 的开放本地方案：从 LLM 获取类型化决策，不生成任何 token | [SAFE](https://agentskillshub.top/skill/Rizzo-AI-Academy/rizzo-flow/) |
-| [mode-io/vllm-jev](https://github.com/mode-io/vllm-jev) | 956 | 为 Jev decision models 提供原生 vLLM 服务 | [SAFE](https://agentskillshub.top/skill/mode-io/vllm-jev/) |
-| [Valen-Team/Valen](https://github.com/Valen-Team/Valen) | 936 | 训练类似 Jev 的多模态模型。System One Model，支持视觉。 | [SAFE](https://agentskillshub.top/skill/Valen-Team/Valen/) |
-| [wfzyx/von](https://github.com/wfzyx/von) | 920 | 开源的 System One 决策模型。低于 15ms、非自回归，可本地替代 TypeSafe Jev。 | [SAFE](https://agentskillshub.top/skill/wfzyx/von/) |
-| [razorback16/openjev](https://github.com/razorback16/openjev) | 802 | 基于 DiffusionGemma 的开放式、兼容 Jev 的 System One 决策服务器 | [SAFE](https://agentskillshub.top/skill/razorback16/openjev/) |
-| [featherless-ai/simple-jev](https://github.com/featherless-ai/simple-jev) | 660 | 将任意开放模型转换为 classifier/jev 端点 | [SAFE](https://agentskillshub.top/skill/featherless-ai/simple-jev/) |
+| [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) | 972 | Jev 的开放本地方案：从 LLM 获取类型化决策，不生成任何 token | [SAFE](https://agentskillshub.top/skill/Rizzo-AI-Academy/rizzo-flow/) |
+| [mode-io/vllm-jev](https://github.com/mode-io/vllm-jev) | 957 | 为 Jev decision models 提供原生 vLLM 服务 | [SAFE](https://agentskillshub.top/skill/mode-io/vllm-jev/) |
+| [Valen-Team/Valen](https://github.com/Valen-Team/Valen) | 938 | 训练类似 Jev 的多模态模型。System One Model，支持视觉。 | [SAFE](https://agentskillshub.top/skill/Valen-Team/Valen/) |
+| [wfzyx/von](https://github.com/wfzyx/von) | 919 | 开源的 System One 决策模型。低于 15ms、非自回归，可本地替代 TypeSafe Jev。 | [SAFE](https://agentskillshub.top/skill/wfzyx/von/) |
+| [razorback16/openjev](https://github.com/razorback16/openjev) | 803 | 基于 DiffusionGemma 的开放式、兼容 Jev 的 System One 决策服务器 | [SAFE](https://agentskillshub.top/skill/razorback16/openjev/) |
+| [featherless-ai/simple-jev](https://github.com/featherless-ai/simple-jev) | 661 | 将任意开放模型转换为 classifier/jev 端点 | [SAFE](https://agentskillshub.top/skill/featherless-ai/simple-jev/) |
 | [taeold/djev-run](https://github.com/taeold/djev-run) | 589 | 在 Cloud Run GPU（vLLM、RTX PRO 6000）上部署实验性 DiffusionGemma-Jev 扩散模型，提供演示应用和基准测试。 | [SAFE](https://agentskillshub.top/skill/taeold/djev-run/) |
 | [Yinsongxu/LLM2Jev](https://github.com/Yinsongxu/LLM2Jev) | 495 | 将本地语言模型转为 Jev 风格的结构化决策模型，仅需预填充即可从文本和图像获取结果，无需逐 token 解码。 | [SAFE](https://agentskillshub.top/skill/Yinsongxu/LLM2Jev/) |
-| [PostHog/jeeves](https://github.com/PostHog/jeeves) | 472 | Jeeves：推理改进类似 Jev 的决策模型 | [SAFE](https://agentskillshub.top/skill/PostHog/jeeves/) |
-| [Zefan-Cai/Open-Jev](https://github.com/Zefan-Cai/Open-Jev) | 454 | Open-Jev-27B-v1.1：为应用提供带概率的决策，直接获取类型化概率，无需生成或解析 JSON。 | [SAFE](https://agentskillshub.top/skill/Zefan-Cai/Open-Jev/) |
-| [mohit67890/imajev](https://github.com/mohit67890/imajev) | 436 | 开源 Jev 风格决策模型：本地输入照片、应用状态和文字问题，输出校准概率。 | [SAFE](https://agentskillshub.top/skill/mohit67890/imajev/) |
+| [PostHog/jeeves](https://github.com/PostHog/jeeves) | 473 | Jeeves：推理改进类似 Jev 的决策模型 | [SAFE](https://agentskillshub.top/skill/PostHog/jeeves/) |
+| [Zefan-Cai/Open-Jev](https://github.com/Zefan-Cai/Open-Jev) | 453 | Open-Jev-27B-v1.1：为应用提供带概率的决策，直接获取类型化概率，无需生成或解析 JSON。 | [SAFE](https://agentskillshub.top/skill/Zefan-Cai/Open-Jev/) |
+| [mohit67890/imajev](https://github.com/mohit67890/imajev) | 438 | 开源 Jev 风格决策模型：本地输入照片、应用状态和文字问题，输出校准概率。 | [SAFE](https://agentskillshub.top/skill/mohit67890/imajev/) |
 | [ekzhang/openjev-sglang](https://github.com/ekzhang/openjev-sglang) | 334 | 基于开放模型的 Jev 兼容 API 端点（仅预填充） | [SAFE](https://agentskillshub.top/skill/ekzhang/openjev-sglang/) |
 | [logan-markewich/jeff](https://github.com/logan-markewich/jeff) | 320 | 基于 GliFormer 的 TypeSafe jev 可自托管替代品。 | [SAFE](https://agentskillshub.top/skill/logan-markewich/jeff/) |
-| [togethercomputer/tev1](https://github.com/togethercomputer/tev1) | 274 | 基于 Qwen3.5 4B 微调的开放权重、受 Jev 启发的决策模型 | [SAFE](https://agentskillshub.top/skill/togethercomputer/tev1/) |
-| [jiwidi/jiwo](https://github.com/jiwidi/jiwo) | 240 | 面向延迟敏感场景的小型决策模型（jev 风格） | [SAFE](https://agentskillshub.top/skill/jiwidi/jiwo/) |
+| [togethercomputer/tev1](https://github.com/togethercomputer/tev1) | 275 | 基于 Qwen3.5 4B 微调的开放权重、受 Jev 启发的决策模型 | [SAFE](https://agentskillshub.top/skill/togethercomputer/tev1/) |
+| [jiwidi/jiwo](https://github.com/jiwidi/jiwo) | 247 | 面向延迟敏感场景的小型决策模型（jev 风格） | [SAFE](https://agentskillshub.top/skill/jiwidi/jiwo/) |
 | [SiliconLabAI/OpenJev](https://github.com/SiliconLabAI/OpenJev) | 187 | 开源 Jev | [SAFE](https://agentskillshub.top/skill/SiliconLabAI/OpenJev/) |
 | [tinnel123666888/OmniJev](https://github.com/tinnel123666888/OmniJev) | 178 | OmniJev：一次前向传播、无需生成token，回答图像、视频、屏幕和机器人场景问题并提供校准概率 | [SAFE](https://agentskillshub.top/skill/tinnel123666888/OmniJev/) |
 | [kshetrajna12/reflex](https://github.com/kshetrajna12/reflex) | 175 | 小型开放式决策模型：状态+类型化问题→校准概率。基于Qwen3.5复现Jev / System One。 | [SAFE](https://agentskillshub.top/skill/kshetrajna12/reflex/) |
-| [allebee/jevk5](https://github.com/allebee/jevk5) | 170 | JevK5：TypeSafe Jev 的开放权重替代方案；一次前向传播输出带概率的类型化决策；权重和代码采用 Apache-2.0 许可。 | [SAFE](https://agentskillshub.top/skill/allebee/jevk5/) |
+| [allebee/jevk5](https://github.com/allebee/jevk5) | 169 | JevK5：TypeSafe Jev 的开放权重替代方案；一次前向传播输出带概率的类型化决策；权重和代码采用 Apache-2.0 许可。 | [SAFE](https://agentskillshub.top/skill/allebee/jevk5/) |
 | [zwliJay/jev-forge](https://github.com/zwliJay/jev-forge) | 165 | 用于 Jev-style 决策模型的开放训练与推理栈，支持候选分支评分、高基数选择、校准和快速批量推理。 | [SAFE](https://agentskillshub.top/skill/zwliJay/jev-forge/) |
 | [kyegomez/open-jev](https://github.com/kyegomez/open-jev) | 157 | TypeSafe AI Jev 的开源第一性原理重构，使用 PyTorch 编写 | [SAFE](https://agentskillshub.top/skill/kyegomez/open-jev/) |
 | [daseinlabs/open-jev](https://github.com/daseinlabs/open-jev) | 139 | 开源 Jev 实现，支持自定义微调 | [SAFE](https://agentskillshub.top/skill/daseinlabs/open-jev/) |
@@ -232,7 +232,7 @@
 | [hunkim/solar-mini4-jev](https://github.com/hunkim/solar-mini4-jev) | 44 | 通过 TypeSafe Jev System One API 格式调用 Upstage Solar Pro4，支持 solar-mini4。 | [SAFE](https://agentskillshub.top/skill/hunkim/solar-mini4-jev/) |
 | [0xBakeer/arbiter](https://github.com/0xBakeer/arbiter) | 36 | 在 NVIDIA GPUs 或 Apple Silicon 上运行 Laya 或自有 typed-decision（System 1）模型，提供 Jev 兼容… | [SAFE](https://agentskillshub.top/skill/0xBakeer/arbiter/) |
 | [Xiaooolong/vev](https://github.com/Xiaooolong/vev) | 34 | 可查看图像的 Jev-like 决策模型，基于 Qwen3.5 开放权重，可在自有 GPU 上运行 | [SAFE](https://agentskillshub.top/skill/Xiaooolong/vev/) |
-| [amithgc/local-jev](https://github.com/amithgc/local-jev) | 32 | 本地离线的 System One 服务器，兼容 TypeSafe 的 Jev API，使用小型开源模型回答类型化的是否、分类和评分问题。 | [SAFE](https://agentskillshub.top/skill/amithgc/local-jev/) |
+| [amithgc/local-jev](https://github.com/amithgc/local-jev) | 33 | 本地离线的 System One 服务器，兼容 TypeSafe 的 Jev API，使用小型开源模型回答类型化的是否、分类和评分问题。 | [SAFE](https://agentskillshub.top/skill/amithgc/local-jev/) |
 | [GPT-AGI/OpenJev](https://github.com/GPT-AGI/OpenJev) | 30 | 开源 Jev | [SAFE](https://agentskillshub.top/skill/GPT-AGI/OpenJev/) |
 | [ankit-aglawe/tinyjev](https://github.com/ankit-aglawe/tinyjev) | 29 | 小型 jev-like 模型，一次前向传播回答 Choice、Score 和 Noul 问题并返回校准概率。支持 MLX 或 PyTorch，完全离线，兼容… | [SAFE](https://agentskillshub.top/skill/ankit-aglawe/tinyjev/) |
 | [afshinm/laya-mps](https://github.com/afshinm/laya-mps) | 28 | 在 Mac 上本地运行 Jev 风格的类型化决策，低内存占用、响应快速 | [SAFE](https://agentskillshub.top/skill/afshinm/laya-mps/) |
@@ -275,7 +275,7 @@
 | [droidrun/mobile-jev](https://github.com/droidrun/mobile-jev) | 477 | Mobile Jev：Mobilerun 的独立移动 agent，由 TypeSafe's Jev 和 Mobilerun API 驱动。 | [SAFE](https://agentskillshub.top/skill/droidrun/mobile-jev/) |
 | [fhshaik/typesafe-mario](https://github.com/fhshaik/typesafe-mario) | 464 | 基于结构化模拟器状态游玩 Super Mario Bros. 的 TypeSafe/Jev agent | [SAFE](https://agentskillshub.top/skill/fhshaik/typesafe-mario/) |
 | [moritzkremb/jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser) | 437 | 用语音控制真实浏览器。Jev（TypeSafe System One）约每个词300毫秒决定意图和目标；Playwright执行操作，常在你说完前完成。 | [SAFE](https://agentskillshub.top/skill/moritzkremb/jev-voice-browser/) |
-| [jkudish/jev-browser](https://github.com/jkudish/jev-browser) | 378 | 使用 Typesafe 的 Jev 模型进行浏览器操作 | [SAFE](https://agentskillshub.top/skill/jkudish/jev-browser/) |
+| [jkudish/jev-browser](https://github.com/jkudish/jev-browser) | 377 | 使用 Typesafe 的 Jev 模型进行浏览器操作 | [SAFE](https://agentskillshub.top/skill/jkudish/jev-browser/) |
 | [FBddcz/embodied-jev](https://github.com/FBddcz/embodied-jev) | 342 | EmbodiedJev：基于 MiniCPM5-2B、Jev 及兼容模型 API 的 MuJoCo 机器人决策工作台 | [SAFE](https://agentskillshub.top/skill/FBddcz/embodied-jev/) |
 | [OmniJev/OneJev](https://github.com/OmniJev/OneJev) | 286 | 多模态 System One 决策模型，一次前向传播回答关于屏幕、照片、视频和文本的问题。 | [SAFE](https://agentskillshub.top/skill/OmniJev/OneJev/) |
 | [standardagents/jevpilot](https://github.com/standardagents/jevpilot) | 239 | 可玩的 Three.js 驾驶模拟器，搭载 Jev 驱动的自动驾驶ાજપ | [SAFE](https://agentskillshub.top/skill/standardagents/jevpilot/) |
@@ -283,7 +283,7 @@
 | [socai-io/jev-social](https://github.com/socai-io/jev-social) | 220 | 开源、本地优先的 Instagram、TikTok 和 LinkedIn 社交媒体研究 agent。Jev 编排只读步骤；socai CLI 捕获带引用的浏览… | [SAFE](https://agentskillshub.top/skill/socai-io/jev-social/) |
 | [kevinbadi/jev-voice](https://github.com/kevinbadi/jev-voice) | 140 | 与 Mac 对话。本地 whisper.cpp + 每条命令一次 Jev（TypeSafe）调用 + macOS 自动化。 | [SAFE](https://agentskillshub.top/skill/kevinbadi/jev-voice/) |
 | [Ying-Kai-Liao/jev-browser](https://github.com/Ying-Kai-Liao/jev-browser) | 138 | LLM 负责规划、Jev（Typesafe System One）负责决策的浏览器自动化。提供库、CLI 和 MCP server。 | [SAFE](https://agentskillshub.top/skill/Ying-Kai-Liao/jev-browser/) |
-| [christianmat/jev-pokemon](https://github.com/christianmat/jev-pokemon) | 137 | Jev 是一个 AI 决策模型，游玩 Pokémon Red，用时 37 小时 40 分通关。 | [SAFE](https://agentskillshub.top/skill/christianmat/jev-pokemon/) |
+| [christianmat/jev-pokemon](https://github.com/christianmat/jev-pokemon) | 138 | Jev 是一个 AI 决策模型，游玩 Pokémon Red，用时 37 小时 40 分通关。 | [SAFE](https://agentskillshub.top/skill/christianmat/jev-pokemon/) |
 | [savka777/jev-use](https://github.com/savka777/jev-use) | 133 | 说出指令，Mac 就会执行。基于 Jev 的电脑操作工具，通过 Accessibility 读取屏幕，无需视觉模型。 | [SAFE](https://agentskillshub.top/skill/savka777/jev-use/) |
 | [virajbhartiya/laya-vs-jev](https://github.com/virajbhartiya/laya-vs-jev) | 120 | Laya vs Jev：本地 MLX 与托管 AI 并排玩 T-Rex，显示实时指标并录制回放 | [SAFE](https://agentskillshub.top/skill/virajbhartiya/laya-vs-jev/) |
 | [Dimweaker/jev-libero](https://github.com/Dimweaker/jev-libero) | 87 | 使用 Jev 实现精细机器人控制，提供物理预览和可配置的 LIBERO 任务。 | [SAFE](https://agentskillshub.top/skill/Dimweaker/jev-libero/) |
@@ -322,11 +322,11 @@
 | [wy-coliney/jev-browser-use](https://github.com/wy-coliney/jev-browser-use) | 1.2k | 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp. | [SAFE](https://agentskillshub.top/skill/wy-coliney/jev-browser-use/) |
 | [momozi1996/momo-code](https://github.com/momozi1996/momo-code) | 1.1k | MOMO CODE — RSI JEVPi：与你共同进化的 AI 编程 agent | [SAFE](https://agentskillshub.top/skill/momozi1996/momo-code/) |
 | [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) | 1.0k | 实时 SEO 审核任意网站，仅需一个首页 URL，由 Jev 评判。支持 PDF、XLSX 和 Markdown 报告。 | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/jev-seo/) |
-| [thruwire/foreman](https://github.com/thruwire/foreman) | 833 | 由 TypeSafe 的 Jev 模型驱动的 agent 监督器和软件工厂领班 | [SAFE](https://agentskillshub.top/skill/thruwire/foreman/) |
-| [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) | 707 | 基于 TypeSafe Jev 构建的分阶段代码审查工作流和本地仪表板。 | [SAFE](https://agentskillshub.top/skill/devagrawal09/jev-review/) |
+| [thruwire/foreman](https://github.com/thruwire/foreman) | 836 | 由 TypeSafe 的 Jev 模型驱动的 agent 监督器和软件工厂领班 | [SAFE](https://agentskillshub.top/skill/thruwire/foreman/) |
+| [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) | 708 | 基于 TypeSafe Jev 构建的分阶段代码审查工作流和本地仪表板。 | [SAFE](https://agentskillshub.top/skill/devagrawal09/jev-review/) |
 | [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router) | 676 | 在 Claude Code 中用 jev-router 为任务选择最便宜的模型 | [SAFE](https://agentskillshub.top/skill/gargpratyush/jev-router/) |
-| [BillionsBobby/JevRouter](https://github.com/BillionsBobby/JevRouter) | 471 | 轻量级 Jev 驱动路由器，用于模型、工具和子代理 | [SAFE](https://agentskillshub.top/skill/BillionsBobby/JevRouter/) |
-| [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) | 451 | VexJoy AI Agent 与 Jev Intelligent Routing：/do 将自然语言请求路由给合适的专业 agent，并通过评审、测试和学习… | [SAFE](https://agentskillshub.top/skill/notque/vexjoy-agent/) |
+| [BillionsBobby/JevRouter](https://github.com/BillionsBobby/JevRouter) | 473 | 轻量级 Jev 驱动路由器，用于模型、工具和子代理 | [SAFE](https://agentskillshub.top/skill/BillionsBobby/JevRouter/) |
+| [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) | 452 | VexJoy AI Agent 与 Jev Intelligent Routing：/do 将自然语言请求路由给合适的专业 agent，并通过评审、测试和学习… | [SAFE](https://agentskillshub.top/skill/notque/vexjoy-agent/) |
 | [codejunkie99/keel](https://github.com/codejunkie99/keel) | 381 | 本地优先的 macOS 编程工作区，支持本地 Laya 和可选 Jev 决策 | [SAFE](https://agentskillshub.top/skill/codejunkie99/keel/) |
 | [malevrigns/agent-jev](https://github.com/malevrigns/agent-jev) | 370 | AgentJev-0.6B：面向AI Agents的“System One”决策模型，输入非结构化状态和结构化问题，50ms返回校准概率分布，不解码输出tok… | [SAFE](https://agentskillshub.top/skill/malevrigns/agent-jev/) |
 | [itsmostafa/system-one-connector](https://github.com/itsmostafa/system-one-connector) | 366 | 用于评估任何内容的 System One MCP connector，让 AI agent 直接访问 Jev、D1、CLM 和 Laya 等模型 | [SAFE](https://agentskillshub.top/skill/itsmostafa/system-one-connector/) |
@@ -340,8 +340,8 @@
 | [dealerdefi/Jevmind](https://github.com/dealerdefi/Jevmind) | 175 | Jevmind：集中管理 agent 决策，附置信度，经代码门控、记录、评估和学习。支持离线毫秒级运行，可切换 Jev。MCP server。 | [SAFE](https://agentskillshub.top/skill/dealerdefi/Jevmind/) |
 | [tamaratran/jev-pruner](https://github.com/tamaratran/jev-pruner) | 170 | Claude Code 插件：用 TypeSafe Jev 截短模型查看前的 Bash 输出 | [SAFE](https://agentskillshub.top/skill/tamaratran/jev-pruner/) |
 | [dbreunig/building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill) | 169 | 用于编写和改进调用 Jev（TypeSafe 的 System One 模型）的程序的 skill | [SAFE](https://agentskillshub.top/skill/dbreunig/building-with-jev-skill/) |
+| [y0usaf/pi-jev](https://github.com/y0usaf/pi-jev) | 168 | TypeSafe Jev 作为 Pi coding agent 的决策层：可度量的工具调用门，以及用于类型化、校准回答的 jev_ask | [SAFE](https://agentskillshub.top/skill/y0usaf/pi-jev/) |
 | [dorkitude/webctl](https://github.com/dorkitude/webctl) | 167 | 由 Jev 支持的 agent 智能网页搜索 CLI，节省 token。 | [SAFE](https://agentskillshub.top/skill/dorkitude/webctl/) |
-| [y0usaf/pi-jev](https://github.com/y0usaf/pi-jev) | 167 | TypeSafe Jev 作为 Pi coding agent 的决策层：可度量的工具调用门，以及用于类型化、校准回答的 jev_ask | [SAFE](https://agentskillshub.top/skill/y0usaf/pi-jev/) |
 | [YUTA-fywoo/jev-gui-delegate](https://github.com/YUTA-fywoo/jev-gui-delegate) | 164 | 面向 Codex 的 AI 辅助 Windows 和 Chrome GUI 委托：任务契约、本地执行、Jev 语义决策、恢复与结果验证。 | [SAFE](https://agentskillshub.top/skill/YUTA-fywoo/jev-gui-delegate/) |
 | [Avinash-jetwani/jevmem](https://github.com/Avinash-jetwani/jevmem) | 156 | Claude Code 的自动项目记忆：将决策、规则和无效方案保存到仓库的 JEVMEM.md，并在下次会话恢复。可在 Claude 插件目录和 MCP Re… | [SAFE](https://agentskillshub.top/skill/Avinash-jetwani/jevmem/) |
 | [leepokai/jev-guard](https://github.com/leepokai/jev-guard) | 154 | Jev：Claude Code、Codex、Copilot、Gemini、Cursor、pi、OpenCode、ACP的工具风险、提示注入、skill/插件检查 | [SAFE](https://agentskillshub.top/skill/leepokai/jev-guard/) |
@@ -353,14 +353,14 @@
 | [can1357/jegrep](https://github.com/can1357/jegrep) | 125 | 语义 grep：按描述查找代码，基于 Jev | [SAFE](https://agentskillshub.top/skill/can1357/jegrep/) |
 | [nidhi-singh02/agent-router](https://github.com/nidhi-singh02/agent-router) | 124 | 选择 Cursor、Claude Code、Codex 或 OpenCode 及模型/effort 执行任务并启动的 CLI，由 Jev 和 Herdr 驱动 | [SAFE](https://agentskillshub.top/skill/nidhi-singh02/agent-router/) |
 | [devagrawal09/stanley-code](https://github.com/devagrawal09/stanley-code) | 120 | 面向 coding agents 的有界、类型安全 Jev 工作流 | [SAFE](https://agentskillshub.top/skill/devagrawal09/stanley-code/) |
-| [nassim-arifette/jevgrep](https://github.com/nassim-arifette/jevgrep) | 116 | 基于 Jev 的语义代码搜索，供代码代理通过 CLI 或 MCP 跨仓库查找行为，提供源码片段和行号。 | [SAFE](https://agentskillshub.top/skill/nassim-arifette/jevgrep/) |
-| [thinkany-ai/autojev](https://github.com/thinkany-ai/autojev) | 116 | AI agent 的模型路由器。 | [SAFE](https://agentskillshub.top/skill/thinkany-ai/autojev/) |
+| [nassim-arifette/jevgrep](https://github.com/nassim-arifette/jevgrep) | 118 | 基于 Jev 的语义代码搜索，供代码代理通过 CLI 或 MCP 跨仓库查找行为，提供源码片段和行号。 | [SAFE](https://agentskillshub.top/skill/nassim-arifette/jevgrep/) |
+| [thinkany-ai/autojev](https://github.com/thinkany-ai/autojev) | 117 | AI agent 的模型路由器。 | [SAFE](https://agentskillshub.top/skill/thinkany-ai/autojev/) |
 | [ellipsis-dev/blink](https://github.com/ellipsis-dev/blink) | 106 | 由 @typesafe-ai 的 Jev 提供支持的代码库搜索 | [SAFE](https://agentskillshub.top/skill/ellipsis-dev/blink/) |
 | [wobsoriano/oxlint-plugin-jev](https://github.com/wobsoriano/oxlint-plugin-jev) | 96 | oxlint-plugin-jev：实验性插件，风险自负。用英文编写由 TypeSafe Jev 回答的 Oxlint 规则。 | [SAFE](https://agentskillshub.top/skill/wobsoriano/oxlint-plugin-jev/) |
 | [shitianfang/jev-use](https://github.com/shitianfang/jev-use) | 86 | Claude Code / Codex / pi plugin：将无需文本输出的 agent 步骤交给 Jev，支持类型化升级回 LLM | [SAFE](https://agentskillshub.top/skill/shitianfang/jev-use/) |
 | [IAmUnbounded/save-token-jev-clean](https://github.com/IAmUnbounded/save-token-jev-clean) | 83 | save-token-jev：Jev指导的coding agent上下文压缩；按需保留工具调用及结果，用户和assistant文本原样保留，支持完整、限长保留… | [SAFE](https://agentskillshub.top/skill/IAmUnbounded/save-token-jev-clean/) |
 | [hyperspaceai/jevcache](https://github.com/hyperspaceai/jevcache) | 79 | TypeSafe Jev-class 模型的决策缓存：重复调用无需开销，结果确定且可共享。单个 2 MB 二进制文件。 | [SAFE](https://agentskillshub.top/skill/hyperspaceai/jevcache/) |
-| [TheoOliveira/pi-jev](https://github.com/TheoOliveira/pi-jev) | 73 | Pi 编码 agent 的语义工具路由与类型化 System One 决策，使用 TypeSafe Jev | [SAFE](https://agentskillshub.top/skill/TheoOliveira/pi-jev/) |
+| [TheoOliveira/pi-jev](https://github.com/TheoOliveira/pi-jev) | 74 | Pi 编码 agent 的语义工具路由与类型化 System One 决策，使用 TypeSafe Jev | [SAFE](https://agentskillshub.top/skill/TheoOliveira/pi-jev/) |
 | [andududu/jeview](https://github.com/andududu/jeview) | 68 | Jev（TypeSafe）的非官方本地可视化工具，实时查看代码的每次调用。与 TypeSafe AI 无关。 | [SAFE](https://agentskillshub.top/skill/andududu/jeview/) |
 | [burnigtm/jev-mcp](https://github.com/burnigtm/jev-mcp) | 68 | 将 TypeSafe Jev 接入 Cursor、Codex 及任意 MCP 客户端编码流程的 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/burnigtm/jev-mcp/) |
 | [EliaAlberti/jev-rules](https://github.com/EliaAlberti/jev-rules) | 67 | Jev 会为每个提示词选择适用规则，让 Claude 只看到相关规则。 | [SAFE](https://agentskillshub.top/skill/EliaAlberti/jev-rules/) |
@@ -371,8 +371,8 @@
 | [mizchi/jev-test-filter](https://github.com/mizchi/jev-test-filter) | 38 | 用 Jev 对照 git diff 为每个测试评分，并输出测试框架支持的过滤参数 | [SAFE](https://agentskillshub.top/skill/mizchi/jev-test-filter/) |
 | [safzanpirani/pi-jev-skill-picker](https://github.com/safzanpirani/pi-jev-skill-picker) | 38 | 用 TypeSafe Jev 对当前任务的 Pi Agent Skills 排名 | [SAFE](https://agentskillshub.top/skill/safzanpirani/pi-jev-skill-picker/) |
 | [cth9191/jev-compaction-plus](https://github.com/cth9191/jev-compaction-plus) | 37 | Claude Code 压缩约0.5秒而非约35秒：Jev逐字保留所需内容，其余移至抽屉文件。fast-jev-compaction 的分支。 | [SAFE](https://agentskillshub.top/skill/cth9191/jev-compaction-plus/) |
+| [dorkitude/skimmer](https://github.com/dorkitude/skimmer) | 34 | 用 Jev 浏览页面、文件和列表，仅保留目标所需内容，节省 agent token。基于 go/cobra 构建。 | [CAUTION](https://agentskillshub.top/skill/dorkitude/skimmer/) |
 | [win4r/jev-skill-suggester](https://github.com/win4r/jev-skill-suggester) | 34 | 用 TypeSafe Jev 进行有界的已安装 skill 推荐，含 Python CLI、Codex skill、双语文档和示例。 | [SAFE](https://agentskillshub.top/skill/win4r/jev-skill-suggester/) |
-| [dorkitude/skimmer](https://github.com/dorkitude/skimmer) | 33 | 用 Jev 浏览页面、文件和列表，仅保留目标所需内容，节省 agent token。基于 go/cobra 构建。 | [CAUTION](https://agentskillshub.top/skill/dorkitude/skimmer/) |
 | [yinhong-zhou/jevdo](https://github.com/yinhong-zhou/jevdo) | 29 | Jev 优先的 agent 循环，用于 DeepSeek Harness 的可复用操作。 | [SAFE](https://agentskillshub.top/skill/yinhong-zhou/jevdo/) |
 | [CommandCodeAI/cmd-mod-jev-nudge](https://github.com/CommandCodeAI/cmd-mod-jev-nudge) | 22 | Command Code mod：在 agent 尚有未完成工作时提示其继续，由 Jev 评判 | [SAFE](https://agentskillshub.top/skill/CommandCodeAI/cmd-mod-jev-nudge/) |
 | [Das-rebel/a3m-router](https://github.com/Das-rebel/a3m-router) | 18 | 自适应多模型LLM路由：80+ providers，Jev System One单次路由、故障切换、并行合并。 | [SAFE](https://agentskillshub.top/skill/Das-rebel/a3m-router/) |
@@ -450,11 +450,11 @@
 | [schainks/system_one_client](https://github.com/schainks/system_one_client) | 10 | Elixir System One：TypeSafe Jev、Cloudflare Clef、OpenRouter、自托管CLM；全分布、行为stub、重试遥测 | [SAFE](https://agentskillshub.top/skill/schainks/system_one_client/) |
 | [brainstormity/Jev-For-Dummies](https://github.com/brainstormity/Jev-For-Dummies) | 9 | JEV for Dummies：将 Jev 决策原语转换为 HTTP GET 请求的 API，无需 SDK。 | [SAFE](https://agentskillshub.top/skill/brainstormity/Jev-For-Dummies/) |
 | [captain-corgi/typesafe-sdk-go](https://github.com/captain-corgi/typesafe-sdk-go) | 9 | 社区版 Golang TypeSafe SDK | [SAFE](https://agentskillshub.top/skill/captain-corgi/typesafe-sdk-go/) |
+| [Kiln-AI/jev_jsonschema](https://github.com/Kiln-AI/jev_jsonschema) | 8 | 通过 TypeSafe 的 Jev API 运行 JSON Schema，并返回 JSON。 | [SAFE](https://agentskillshub.top/skill/Kiln-AI/jev_jsonschema/) |
 | [WiktorB2004/llama-index-jev](https://github.com/WiktorB2004/llama-index-jev) | 8 | 基于 TypeSafe Jev 的 LlamaIndex reranker + router：类型化评分/选择，比 LLM-as-judge 更便宜 | [SAFE](https://agentskillshub.top/skill/WiktorB2004/llama-index-jev/) |
 | [allebee/pytest-jev](https://github.com/allebee/pytest-jev) | 8 | 使用 Jev 校准概率对 LLM 输出进行语义断言的 Pytest 插件。 | [SAFE](https://agentskillshub.top/skill/allebee/pytest-jev/) |
 | [arunav25/jev-mcp](https://github.com/arunav25/jev-mcp) | 8 | 将 JEV 接入 MCP 客户端，使用共享数据集和可衡量的准确率，与通用 LLM 比较判断结果。 | [SAFE](https://agentskillshub.top/skill/arunav25/jev-mcp/) |
 | [EmreKaplaner/rag-jev](https://github.com/EmreKaplaner/rag-jev) | 7 | 为有用证据腾出空间：支持 RAG 的可检查上下文选择、Jev 重排序和开放基准研究。 | [SAFE](https://agentskillshub.top/skill/EmreKaplaner/rag-jev/) |
-| [Kiln-AI/jev_jsonschema](https://github.com/Kiln-AI/jev_jsonschema) | 7 | 通过 TypeSafe 的 Jev API 运行 JSON Schema，并返回 JSON。 | [SAFE](https://agentskillshub.top/skill/Kiln-AI/jev_jsonschema/) |
 | [y0usaf/jev-lm](https://github.com/y0usaf/jev-lm) | 7 | 词级语言模型，输出层采用 Jev：n-gram 草稿器、Noul 分块验证、bits-per-token 评估 | [SAFE](https://agentskillshub.top/skill/y0usaf/jev-lm/) |
 | [Olti1947/jev-java](https://github.com/Olti1947/jev-java) | 6 | TypeSafe AI Jev System One 决策引擎的 Java SDK | [SAFE](https://agentskillshub.top/skill/Olti1947/jev-java/) |
 | [caiovicentino/jev-align](https://github.com/caiovicentino/jev-align) | 6 | 由 Jev 驱动的 LLM 响应和 agent 计划校准对齐验证器 | [SAFE](https://agentskillshub.top/skill/caiovicentino/jev-align/) |
@@ -502,13 +502,13 @@
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [anishfn/shapeshift](https://github.com/anishfn/shapeshift) | 1.1k | 一个会随输入变成所需界面的输入框。由 TypeSafe Jev 驱动，支持离线使用。 | [SAFE](https://agentskillshub.top/skill/anishfn/shapeshift/) |
-| [jev-chat/jev-chat-windows](https://github.com/jev-chat/jev-chat-windows) | 900 | JevChat-Windows：聊天窗口回复辅助。截图+本地离线OCR识别消息，Jev判断意图，生成3条候选并一键填入，发送需手动。 | [SAFE](https://agentskillshub.top/skill/jev-chat/jev-chat-windows/) |
-| [shengjidaguai-china/goutoujunshi-jev-chat](https://github.com/shengjidaguai-china/goutoujunshi-jev-chat) | 698 | 狗头军师 Chat：Mac 微信读屏、关系分析和回复草稿悬浮窗 | [SAFE](https://agentskillshub.top/skill/shengjidaguai-china/goutoujunshi-jev-chat/) |
+| [jev-chat/jev-chat-windows](https://github.com/jev-chat/jev-chat-windows) | 901 | JevChat-Windows：聊天窗口回复辅助。截图+本地离线OCR识别消息，Jev判断意图，生成3条候选并一键填入，发送需手动。 | [SAFE](https://agentskillshub.top/skill/jev-chat/jev-chat-windows/) |
+| [shengjidaguai-china/goutoujunshi-jev-chat](https://github.com/shengjidaguai-china/goutoujunshi-jev-chat) | 700 | 狗头军师 Chat：Mac 微信读屏、关系分析和回复草稿悬浮窗 | [SAFE](https://agentskillshub.top/skill/shengjidaguai-china/goutoujunshi-jev-chat/) |
 | [FerryCorleone/crush-monitor](https://github.com/FerryCorleone/crush-monitor) | 339 | Crush：用 Jev 分析微信聊天的情绪、意图和回复表现，本机部署，使用自己的 API Key。 | [SAFE](https://agentskillshub.top/skill/FerryCorleone/crush-monitor/) |
-| [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) | 240 | RikkaHub Android AI 聊天端，支持 SillyTavern 卡、缓存、Jev 决策、多维记忆、QQbot、AI 群聊、插件和原生移动端 | [SAFE](https://agentskillshub.top/skill/MiaoWuNYA/rikkahub-sillytavern-android/) |
+| [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) | 243 | RikkaHub Android AI 聊天端，支持 SillyTavern 卡、缓存、Jev 决策、多维记忆、QQbot、AI 群聊、插件和原生移动端 | [SAFE](https://agentskillshub.top/skill/MiaoWuNYA/rikkahub-sillytavern-android/) |
 | [Liyucheng1997/332_lab-jev-chat](https://github.com/Liyucheng1997/332_lab-jev-chat) | 177 | Jev Chat Assistant for Windows：微信电脑版意图判断与 DeepSeek 回复建议 | [SAFE](https://agentskillshub.top/skill/Liyucheng1997/332_lab-jev-chat/) |
 | [w3cj/jev-chat](https://github.com/w3cj/jev-chat) | 126 | 用 Jev 构建的工具调用聊天机器人，无需 LLM。 | [SAFE](https://agentskillshub.top/skill/w3cj/jev-chat/) |
-| [henryklunaris/hey-jev](https://github.com/henryklunaris/hey-jev) | 125 | Hey Jev：Mac 语音助手。说“Hey Jev”或按住右 Option，它会执行并回复。使用 Jev、Fish Audio S2.1 Pro 和本地 W… | [SAFE](https://agentskillshub.top/skill/henryklunaris/hey-jev/) |
+| [henryklunaris/hey-jev](https://github.com/henryklunaris/hey-jev) | 124 | Hey Jev：Mac 语音助手。说“Hey Jev”或按住右 Option，它会执行并回复。使用 Jev、Fish Audio S2.1 Pro 和本地 W… | [SAFE](https://agentskillshub.top/skill/henryklunaris/hey-jev/) |
 | [mrnugget/jev-shell-history](https://github.com/mrnugget/jev-shell-history) | 121 | 基于 Jev (TypeSafe) 排序的 Fish 风格 zsh 历史命令自动建议 | [SAFE](https://agentskillshub.top/skill/mrnugget/jev-shell-history/) |
 | [Nisaka520/JevIntent](https://github.com/Nisaka520/JevIntent) | 72 | 微信（FkWeChat 插件）：长按消息分析意图、情绪和回复姿态，仅本机提示，对方无感知 | [SAFE](https://agentskillshub.top/skill/Nisaka520/JevIntent/) |
 | [Bewinxed/jevgpt](https://github.com/Bewinxed/jevgpt) | 32 | 一个基于无法生成文本的模型构建的聊天机器人（由 TypeSafe AI 的 Jev 自回归驱动） | [SAFE](https://agentskillshub.top/skill/Bewinxed/jevgpt/) |
@@ -534,4 +534,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-24。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-25。
