@@ -189,6 +189,16 @@
   "file": "jmagly__aiwg.jpg",
   "still": "jmagly__aiwg.jpg"
  },
+ "mmornati/system-one-router": {
+  "repo": "mmornati/system-one-router",
+  "url": "https://raw.githubusercontent.com/mmornati/system-one-router/HEAD/docs/dashboard.png",
+  "alt": "Router dashboard: spend, savings, per-model cost and routing reasons",
+  "score": -2.7,
+  "type": "image/png",
+  "bytes": 155448,
+  "file": "mmornati__system-one-router.jpg",
+  "still": "mmornati__system-one-router.jpg"
+ },
  "sedum-dev/sedum": {
   "repo": "sedum-dev/sedum",
   "url": "https://raw.githubusercontent.com/sedum-dev/sedum/HEAD/docs/assets/demo.gif",

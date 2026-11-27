@@ -20,6 +20,7 @@ authors and stay under the license of the project they come from. To have one re
 | `dtunai__cu-Jev.gif` | [dtunai/cu-Jev](https://github.com/dtunai/cu-Jev) | Apache-2.0 | [source](https://raw.githubusercontent.com/dtunai/cu-Jev/HEAD/assets/starfighter.gif) |
 | `egma-ai__jev-code-reviewer.jpg` | [egma-ai/jev-code-reviewer](https://github.com/egma-ai/jev-code-reviewer) | MIT | [source](https://raw.githubusercontent.com/egma-ai/jev-code-reviewer/HEAD/docs/preview.png) |
 | `jmagly__aiwg.jpg` | [jmagly/aiwg](https://github.com/jmagly/aiwg) | MIT | [source](https://raw.githubusercontent.com/jmagly/aiwg/HEAD/docs/.public/aiwg-readme-hero-v2.png) |
+| `mmornati__system-one-router.jpg` | [mmornati/system-one-router](https://github.com/mmornati/system-one-router) | Apache-2.0 | [source](https://raw.githubusercontent.com/mmornati/system-one-router/HEAD/docs/dashboard.png) |
 | `Mushroom-Systems__lichen-v1.jpg` | [Mushroom-Systems/lichen-v1](https://github.com/Mushroom-Systems/lichen-v1) | MIT | [source](https://raw.githubusercontent.com/Mushroom-Systems/lichen-v1/HEAD/docs/images/stop-sign.jpg) |
 | `sedum-dev__sedum.gif` | [sedum-dev/sedum](https://github.com/sedum-dev/sedum) | MIT | [source](https://raw.githubusercontent.com/sedum-dev/sedum/HEAD/docs/assets/demo.gif) |
 | `Seheta__netizen.jpg` | [Seheta/netizen](https://github.com/Seheta/netizen) | MIT | [source](https://raw.githubusercontent.com/Seheta/netizen/HEAD/docs/header.webp) |
